@@ -1,0 +1,757 @@
+{
+  "items": [
+    {
+      "description": "Docs site: . Full docs page list: (auto-generated). Project history: . LLM-friendly exports: and on the published site.",
+      "items": [],
+      "title": "A collection of articles, templates, tools, and many more to build and manage emails."
+    },
+    {
+      "description": "A curated directory of email marketing tools, grouped for easier navigation. Full docs live in .\nExplore filters: esp · self-hosted · templates · automation · newsletter · transactional.",
+      "items": [],
+      "title": "Best Email Marketing Tools"
+    },
+    {
+      "description": "Docs: . Explore: /explore?tag=automation.",
+      "items": [],
+      "title": "Automation Email Marketing platform"
+    },
+    {
+      "description": "How Often Should You Send Your Subscription Newsletter?",
+      "items": [],
+      "title": "Strategy"
+    },
+    {
+      "description": "Feedotter",
+      "items": [],
+      "title": "Similar companies"
+    },
+    {
+      "description": "Docs: . Explore: /explore?tag=automation.",
+      "items": [],
+      "title": "Lifecycle of"
+    },
+    {
+      "description": "Docs: . Explore: /explore?tag=newsletter.",
+      "items": [],
+      "title": "Newsletters lead generation"
+    },
+    {
+      "description": "Docs: . Explore: /explore?tag=newsletter.",
+      "items": [],
+      "title": "Demand Curve: Tested tactics for growing newsletters"
+    },
+    {
+      "description": "Resources for building HTML emails — tutorials, templates, and coding references. Docs: . Explore: /explore?tag=templates.",
+      "items": [],
+      "title": "Frontend Development"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "HTML Email Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free HTML Email Templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-03-18T11:03:48Z",
+            "owner": "designmodo",
+            "repo": "html-email-templates",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsive Email",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-12-12T05:24:59Z",
+            "owner": "derekpunsalan",
+            "repo": "responsive-email",
+            "stars": 275
+          }
+        }
+      ],
+      "title": "Template collections & galleries"
+    },
+    {
+      "description": "Canonical open-source repositories for building and running email. Docs: .\nPage jobs: this section = templates / frameworks / infrastructure · Related Repositories = adjacent packages & sites · Cool Projects = showcases.",
+      "items": [],
+      "title": "Github Repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free Responsive HTML Email Template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-20T11:27:07Z",
+            "owner": "leemunroe",
+            "repo": "responsive-html-email-template",
+            "stars": 13698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email Blueprints",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-23T04:38:04Z",
+            "owner": "mailchimp",
+            "repo": "email-blueprints",
+            "stars": 7024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsive transactional HTML email templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-02-03T15:51:44Z",
+            "owner": "mailgun",
+            "repo": "transactional-email-templates",
+            "stars": 6928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email-Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-04-28T18:47:01Z",
+            "owner": "seanpowell",
+            "repo": "Email-Boilerplate",
+            "stars": 3791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email Templates (forwardemail)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-31T18:11:37Z",
+            "owner": "forwardemail",
+            "repo": "email-templates",
+            "stars": 3737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Postmark Transactional Email Templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-04-02T06:24:38Z",
+            "owner": "ActiveCampaign",
+            "repo": "postmark-templates",
+            "stars": 3195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Free Email Templates by Colorlib",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-30T12:18:27Z",
+            "owner": "ColorlibHQ",
+            "repo": "email-templates",
+            "stars": 1235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SendGrid email templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-04-09T13:34:41Z",
+            "owner": "sendgrid",
+            "repo": "email-templates",
+            "stars": 849
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsive HTML email templates (konsav)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-09-18T09:47:02Z",
+            "owner": "konsav",
+            "repo": "email-templates",
+            "stars": 804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsive HTML Email Template",
+          "description": "Responsive HTML email template starter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-03-31T23:27:27Z",
+            "owner": "charlesmudy",
+            "repo": "responsive-html-email-template",
+            "stars": 686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trade Show Email Templates",
+          "description": "Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-13T01:40:16Z",
+            "owner": "LensmorOfficial",
+            "repo": "trade-show-email-templates",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "HTML email templates & boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MJML",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T10:12:56Z",
+            "owner": "mjmlio",
+            "repo": "mjml",
+            "stars": 18198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation for Emails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-03-13T16:40:54Z",
+            "owner": "foundation",
+            "repo": "foundation-emails",
+            "stars": 7792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Premailer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-10T02:09:16Z",
+            "owner": "premailer",
+            "repo": "premailer",
+            "stars": 2417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mosaico - Responsive Email Template Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-08-22T11:37:23Z",
+            "owner": "voidlabs",
+            "repo": "mosaico",
+            "stars": 1780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-03-18T22:45:26Z",
+            "owner": "g13nn",
+            "repo": "Email-Framework",
+            "stars": 1669
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mjml react",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-24T14:06:41Z",
+            "owner": "wix-incubator",
+            "repo": "mjml-react",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React html email",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T11:25:06Z",
+            "owner": "chromakode",
+            "repo": "react-html-email",
+            "stars": 890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inky",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-14T17:03:22Z",
+            "owner": "foundation",
+            "repo": "inky",
+            "stars": 703
+          }
+        }
+      ],
+      "title": "Frameworks & compilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tutanota",
+          "description": "Privacy-focused encrypted email service for email, contacts, and calendar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T16:01:31Z",
+            "owner": "tutao",
+            "repo": "tutanota",
+            "stars": 7852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List of disposable email domains",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:59:17Z",
+            "owner": "disposable-email-domains",
+            "repo": "disposable-email-domains",
+            "stars": 5423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forward email",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2024-12-12T06:04:09Z",
+            "owner": "forwardemail",
+            "repo": "free-email-forwarding",
+            "stars": 2431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmailEngine Email API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T07:23:56Z",
+            "owner": "postalsys",
+            "repo": "emailengine",
+            "stars": 2210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMTP Email Verification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-10-14T14:53:05Z",
+            "owner": "EmailVerify",
+            "repo": "email-verify",
+            "stars": 294
+          }
+        }
+      ],
+      "title": "Infrastructure & APIs"
+    },
+    {
+      "description": "Adjacent packages and sites (not the core catalog above).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mailwind",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-06T20:08:36Z",
+            "owner": "soheilpro",
+            "repo": "mailwind",
+            "stars": 3191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email Lab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-11T23:37:40Z",
+            "owner": "sparkbox",
+            "repo": "email-lab",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Email templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T02:39:20Z",
+            "owner": "mjmlio",
+            "repo": "email-templates",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generating Emails with React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-10T09:31:33Z",
+            "owner": "lang-ai",
+            "repo": "react-emails",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML tag validator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-12-16T16:10:41Z",
+            "owner": "pluralsight",
+            "repo": "htmlTagValidator",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown To Mailchimp (github.com)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T02:15:51Z",
+            "owner": "MarcL",
+            "repo": "markdown-to-mailchimp",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "GitHub repositories related to email marketing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Breakdance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-05T05:40:45Z",
+            "owner": "breakdance",
+            "repo": "breakdance",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snapdragon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-14T09:12:47Z",
+            "owner": "here-be",
+            "repo": "snapdragon",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HTML element attributes (github.com)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-28T18:36:50Z",
+            "owner": "wooorm",
+            "repo": "html-element-attributes",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "HTML stuff"
+    },
+    {
+      "description": "Showcase projects (compilers like Inky/Premailer live under Frameworks above).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Maizzle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-16T11:56:52Z",
+            "owner": "maizzle",
+            "repo": "maizzle",
+            "stars": 2844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bojler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-12-06T14:49:22Z",
+            "owner": "Slicejack",
+            "repo": "bojler",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React multi email",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-07-23T01:32:21Z",
+            "owner": "axisj",
+            "repo": "react-multi-email",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generating Emails with React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-10T09:31:33Z",
+            "owner": "lang-ai",
+            "repo": "react-emails",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Confirm Email",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T18:55:24Z",
+            "owner": "funador",
+            "repo": "react-confirm-email",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pechkin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-07-20T10:26:31Z",
+            "owner": "sglazov",
+            "repo": "pechkin",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Cool projects to take a look"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Administration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Newsletter Metrics"
+    },
+    {
+      "description": "Concepts, guides, and providers for transactional email. Docs: .",
+      "items": [],
+      "title": "Transactional Emails"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Concepts & guides"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Providers & products"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sister Repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-03T21:09:35Z",
+            "owner": "jonathandion",
+            "repo": "awesome-emails",
+            "stars": 2725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-augmented",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "GCC Machine Description",
+            "last_commit": "2020-03-04T02:12:05Z",
+            "owner": "chaconnewu",
+            "repo": "awesome-augmented",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "Awesome lists"
+    },
+    {
+      "description": "This repository includes a Docusaurus site in , with local search and automatic GitHub Pages deploy via GitHub Actions.\nSite URL after deploy:\nOne-time setup: repository Settings → Pages → Source → GitHub Actions.",
+      "items": [],
+      "title": "Website"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Linkedin page of LLazyEmail"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:29:57.426Z",
+    "original_repository": "LLazyEmail/awesome-email-marketing",
+    "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
+    "enhanced_repository": "enhansome/enhansome-email-marketing",
+    "enhanced_repository_description": null,
+    "title": "✉ Awesome Email Marketing List 👩‍💻👨‍💻 with stars"
+  }
+}
