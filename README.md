@@ -100,7 +100,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Interspire](https://interspire.com) - Self-hosted Email Marketing Software
 * [Listmonk](https://listmonk.app) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
 * [Mailster](https://mailster.co) - is an easy to use Email Newsletter Plugin for WordPress
-* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,744 | 🐛 115 | 🌐 JavaScript | 📅 2025-10-05 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
+* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,745 | 🐛 115 | 🌐 JavaScript | 📅 2025-10-05 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
 * [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
 * [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
 * [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
@@ -312,7 +312,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,446 | 🐛 40 | 📅 2026-04-17
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,447 | 🐛 40 | 📅 2026-04-17
 * [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -482,7 +482,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,198 | 🐛 67 | 🌐 JavaScript | 📅 2026-08-13
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,199 | 🐛 67 | 🌐 JavaScript | 📅 2026-08-13
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,792 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,417 | 🐛 97 | 🌐 Ruby | 📅 2026-03-10
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,780 | 🐛 22 | 🌐 HTML | 📅 2025-08-22
@@ -493,10 +493,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,850 | 🐛 964 | 🌐 TypeScript | 📅 2026-08-14 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,426 | 🐛 45 | 🌐 Python | 📅 2026-08-14
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,853 | 🐛 965 | 🌐 TypeScript | 📅 2026-08-14 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,425 | 🐛 45 | 🌐 Python | 📅 2026-08-15
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,211 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-14
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,211 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-15
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -534,7 +534,7 @@ Adjacent packages and sites (not the core catalog above).
 
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
-* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,843 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
+* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,844 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
 * [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,051 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 315 | 🐛 23 | 🌐 TypeScript | 📅 2024-07-23
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
@@ -825,7 +825,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,726 | 🐛 45 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,727 | 🐛 45 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 200 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -855,4 +855,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

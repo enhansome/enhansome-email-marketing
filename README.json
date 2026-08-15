@@ -263,7 +263,7 @@
             "last_commit": "2026-08-13T10:12:56Z",
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18198
+            "stars": 18199
           }
         },
         {
@@ -378,10 +378,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:24:05Z",
+            "last_commit": "2026-08-14T16:56:50Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7850
+            "stars": 7853
           }
         },
         {
@@ -392,10 +392,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T01:56:58Z",
+            "last_commit": "2026-08-15T01:13:52Z",
             "owner": "disposable-email-domains",
             "repo": "disposable-email-domains",
-            "stars": 5426
+            "stars": 5425
           }
         },
         {
@@ -420,7 +420,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T12:53:17Z",
+            "last_commit": "2026-08-15T06:48:33Z",
             "owner": "postalsys",
             "repo": "emailengine",
             "stars": 2211
@@ -595,7 +595,7 @@
             "last_commit": "2026-06-16T11:56:52Z",
             "owner": "maizzle",
             "repo": "maizzle",
-            "stars": 2843
+            "stars": 2844
           }
         },
         {
@@ -715,7 +715,7 @@
             "last_commit": "2024-10-03T21:09:35Z",
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2726
+            "stars": 2727
           }
         },
         {
@@ -747,7 +747,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:28:04.714Z",
+    "last_updated": "2026-08-15T15:52:27.926Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
     "enhanced_repository": "enhansome/enhansome-email-marketing",
