@@ -370,10 +370,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:22:35Z",
+                "last_commit": "2026-08-19T15:57:09Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7863
+                "stars": 7864
               }
             },
             {
@@ -415,7 +415,7 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T04:35:45Z",
+                "last_commit": "2026-08-19T14:59:45Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2214
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:01.147Z",
+    "last_updated": "2026-08-19T16:00:51.448Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
