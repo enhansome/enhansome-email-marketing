@@ -493,10 +493,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,865 | 🐛 979 | 🌐 TypeScript | 📅 2026-08-20 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,433 | 🐛 36 | 🌐 Python | 📅 2026-08-20
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,865 | 🐛 980 | 🌐 TypeScript | 📅 2026-08-21 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,433 | 🐛 36 | 🌐 Python | 📅 2026-08-21
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,214 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-20
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,214 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-21
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -523,7 +523,7 @@ Adjacent packages and sites (not the core catalog above).
 ### HTML stuff
 
 * [Breakdance](https://github.com/breakdance/breakdance) ⭐ 539 | 🐛 15 | 🌐 JavaScript | 📅 2026-01-05
-* [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 226 | 🐛 10 | 🌐 JavaScript | 📅 2023-03-14
+* [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 225 | 🐛 10 | 🌐 JavaScript | 📅 2023-03-14
 * [HTML element attributes (github.com)](https://github.com/wooorm/html-element-attributes) ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-28
 * [Sanitize-html](https://www.npmjs.com/package//sanitize-html)
 * [HTML element attributes (www.npmjs.com)](https://www.npmjs.com/package/html-element-attributes)
@@ -855,4 +855,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

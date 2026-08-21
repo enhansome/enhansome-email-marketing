@@ -370,7 +370,7 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T16:01:57Z",
+                "last_commit": "2026-08-21T15:41:06Z",
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7865
@@ -385,7 +385,7 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-20T06:58:22Z",
+                "last_commit": "2026-08-21T07:10:39Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
                 "stars": 5433
@@ -403,7 +403,7 @@
                 "last_commit": "2024-12-12T06:04:09Z",
                 "owner": "forwardemail",
                 "repo": "free-email-forwarding",
-                "stars": 2428
+                "stars": 2427
               }
             },
             {
@@ -415,7 +415,7 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T13:07:27Z",
+                "last_commit": "2026-08-21T15:25:33Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2214
@@ -567,7 +567,7 @@
                 "last_commit": "2023-03-14T09:12:47Z",
                 "owner": "here-be",
                 "repo": "snapdragon",
-                "stars": 226
+                "stars": 225
               }
             },
             {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:02:41.743Z",
+    "last_updated": "2026-08-21T16:02:05.718Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
