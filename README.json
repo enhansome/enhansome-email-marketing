@@ -74,7 +74,7 @@
                 "last_commit": "2024-08-20T11:27:07Z",
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13694
+                "stars": 13695
               }
             },
             {
@@ -89,7 +89,7 @@
                 "last_commit": "2019-10-23T04:38:04Z",
                 "owner": "mailchimp",
                 "repo": "email-blueprints",
-                "stars": 7025
+                "stars": 7026
               }
             },
             {
@@ -164,7 +164,7 @@
                 "last_commit": "2026-07-30T12:18:27Z",
                 "owner": "ColorlibHQ",
                 "repo": "email-templates",
-                "stars": 1237
+                "stars": 1238
               }
             },
             {
@@ -246,7 +246,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18203
+                "stars": 18204
               }
             },
             {
@@ -370,7 +370,7 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:41:06Z",
+                "last_commit": "2026-08-21T16:33:39Z",
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7865
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-21T07:10:39Z",
+                "last_commit": "2026-08-22T01:13:03Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5433
+                "stars": 5437
               }
             },
             {
@@ -415,10 +415,10 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T15:25:33Z",
+                "last_commit": "2026-08-22T15:20:37Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2214
+                "stars": 2216
               }
             },
             {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T16:02:05.718Z",
+    "last_updated": "2026-08-22T15:52:33.661Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
