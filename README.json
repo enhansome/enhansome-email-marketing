@@ -246,7 +246,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18204
+                "stars": 18206
               }
             },
             {
@@ -373,7 +373,7 @@
                 "last_commit": "2026-08-21T16:33:39Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7865
+                "stars": 7866
               }
             },
             {
@@ -385,10 +385,10 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-22T01:13:03Z",
+                "last_commit": "2026-08-23T14:21:59Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5437
+                "stars": 5440
               }
             },
             {
@@ -415,7 +415,7 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T15:20:37Z",
+                "last_commit": "2026-08-22T18:13:40Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2216
@@ -604,7 +604,7 @@
                 "last_commit": "2026-06-16T11:56:52Z",
                 "owner": "maizzle",
                 "repo": "maizzle",
-                "stars": 2848
+                "stars": 2851
               }
             },
             {
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:52:33.661Z",
+    "last_updated": "2026-08-23T15:53:33.155Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
