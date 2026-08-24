@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "description": "A curated directory of email marketing tools, grouped for easier navigation. Full docs live in .\nExplore filters: esp · self-hosted · templates · automation · newsletter · transactional.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mailtrain",
+              "description": "is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55407965,
+                "language": "JavaScript",
+                "last_commit": "2025-10-05T17:53:53Z",
+                "owner": "Mailtrain-org",
+                "repo": "mailtrain",
+                "stars": 5747
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Self-Hosted ESPs"
+        }
+      ],
+      "title": "Best Email Marketing Tools"
+    },
+    {
+      "description": "Docs: . Explore: /explore?tag=automation.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Overloop CLI",
+              "description": "AI-powered outbound engine as a CLI ()",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1186301126,
+                "language": "TypeScript",
+                "last_commit": "2026-04-09T07:23:45Z",
+                "owner": "sortlist",
+                "repo": "overloop-cli",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Delivery, outbound & infrastructure-owned"
+        }
+      ],
+      "title": "Automation Email Marketing platform"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Blockchain / Cryptocurrencies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40307075,
+            "language": null,
+            "last_commit": "2026-04-17T18:23:06Z",
+            "owner": "zudochkin",
+            "repo": "awesome-newsletters",
+            "stars": 4453
+          }
+        }
+      ],
+      "title": "Blogs"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -149,7 +226,7 @@
                 "last_commit": "2023-04-02T06:24:38Z",
                 "owner": "ActiveCampaign",
                 "repo": "postmark-templates",
-                "stars": 3195
+                "stars": 3194
               }
             },
             {
@@ -246,7 +323,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18206
+                "stars": 18209
               }
             },
             {
@@ -370,10 +447,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T16:33:39Z",
+                "last_commit": "2026-08-24T14:43:59Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7866
+                "stars": 7873
               }
             },
             {
@@ -385,10 +462,10 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-23T14:21:59Z",
+                "last_commit": "2026-08-24T06:39:00Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5440
+                "stars": 5444
               }
             },
             {
@@ -415,7 +492,7 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-22T18:13:40Z",
+                "last_commit": "2026-08-24T13:52:57Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2216
@@ -485,7 +562,7 @@
                 "last_commit": "2026-08-01T02:39:20Z",
                 "owner": "mjmlio",
                 "repo": "email-templates",
-                "stars": 184
+                "stars": 185
               }
             },
             {
@@ -705,7 +782,7 @@
             "last_commit": "2024-10-03T21:09:35Z",
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2731
+            "stars": 2732
           }
         },
         {
@@ -728,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:53:33.155Z",
+    "last_updated": "2026-08-24T14:48:06.368Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
