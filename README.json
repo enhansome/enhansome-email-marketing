@@ -447,7 +447,7 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:43:59Z",
+                "last_commit": "2026-08-24T16:03:30Z",
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7873
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:48:06.368Z",
+    "last_updated": "2026-08-24T16:06:36.471Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
