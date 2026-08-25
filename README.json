@@ -211,7 +211,7 @@
                 "last_commit": "2025-12-31T18:11:37Z",
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3737
+                "stars": 3738
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18209
+                "stars": 18210
               }
             },
             {
@@ -447,10 +447,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:03:30Z",
+                "last_commit": "2026-08-24T16:22:24Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7873
+                "stars": 7874
               }
             },
             {
@@ -462,10 +462,10 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-24T06:39:00Z",
+                "last_commit": "2026-08-25T01:15:14Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5444
+                "stars": 5445
               }
             },
             {
@@ -492,7 +492,7 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:52:57Z",
+                "last_commit": "2026-08-24T17:23:05Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2216
@@ -681,7 +681,7 @@
                 "last_commit": "2026-06-16T11:56:52Z",
                 "owner": "maizzle",
                 "repo": "maizzle",
-                "stars": 2851
+                "stars": 2853
               }
             },
             {
@@ -782,7 +782,7 @@
             "last_commit": "2024-10-03T21:09:35Z",
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2732
+            "stars": 2733
           }
         },
         {
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T16:06:36.471Z",
+    "last_updated": "2026-08-25T06:38:03.395Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
