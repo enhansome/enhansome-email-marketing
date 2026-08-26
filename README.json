@@ -151,7 +151,7 @@
                 "last_commit": "2024-08-20T11:27:07Z",
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13695
+                "stars": 13697
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2025-12-31T18:11:37Z",
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3738
+                "stars": 3739
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2023-04-02T06:24:38Z",
                 "owner": "ActiveCampaign",
                 "repo": "postmark-templates",
-                "stars": 3194
+                "stars": 3195
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-08-17T11:50:39Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18210
+                "stars": 18211
               }
             },
             {
@@ -447,10 +447,10 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T16:07:37Z",
+                "last_commit": "2026-08-26T16:05:37Z",
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7874
+                "stars": 7873
               }
             },
             {
@@ -462,10 +462,10 @@
                 "archived": false,
                 "id": 23594485,
                 "language": "Python",
-                "last_commit": "2026-08-25T08:08:49Z",
+                "last_commit": "2026-08-26T08:43:44Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5446
+                "stars": 5451
               }
             },
             {
@@ -492,10 +492,10 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T12:12:29Z",
+                "last_commit": "2026-08-26T13:21:40Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2216
+                "stars": 2217
               }
             },
             {
@@ -532,7 +532,7 @@
                 "last_commit": "2023-11-06T20:08:36Z",
                 "owner": "soheilpro",
                 "repo": "mailwind",
-                "stars": 3189
+                "stars": 3188
               }
             },
             {
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:16:27.322Z",
+    "last_updated": "2026-08-26T16:36:55.413Z",
     "original_repository": "LLazyEmail/awesome-email-marketing",
     "original_repository_id": 488843731,
     "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
