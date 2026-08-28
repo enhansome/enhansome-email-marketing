@@ -17,7 +17,7 @@
                 "last_commit": "2025-10-05T17:53:53Z",
                 "owner": "Mailtrain-org",
                 "repo": "mailtrain",
-                "stars": 5748
+                "stars": 5749
               }
             }
           ],
@@ -208,7 +208,7 @@
                 "archived": false,
                 "id": 4676086,
                 "language": "JavaScript",
-                "last_commit": "2025-12-31T18:11:37Z",
+                "last_commit": "2026-08-27T23:43:25Z",
                 "owner": "forwardemail",
                 "repo": "email-templates",
                 "stars": 3739
@@ -320,10 +320,10 @@
                 "archived": false,
                 "id": 50586840,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T11:50:39Z",
+                "last_commit": "2026-08-27T14:24:50Z",
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18210
+                "stars": 18211
               }
             },
             {
@@ -447,7 +447,7 @@
                 "archived": false,
                 "id": 22344874,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:40:37Z",
+                "last_commit": "2026-08-27T15:33:55Z",
                 "owner": "tutao",
                 "repo": "tutanota",
                 "stars": 7876
@@ -465,7 +465,7 @@
                 "last_commit": "2026-08-27T08:53:05Z",
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5454
+                "stars": 5455
               }
             },
             {
@@ -492,7 +492,7 @@
                 "archived": false,
                 "id": 243816294,
                 "language": "JavaScript",
-                "last_commit": "2026-08-26T18:20:01Z",
+                "last_commit": "2026-08-27T17:19:37Z",
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2218
@@ -782,7 +782,7 @@
             "last_commit": "2024-10-03T21:09:35Z",
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2736
+            "stars": 2737
           }
         },
         {
@@ -805,7 +805,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:36:27.194Z",
+    "last_updated": "2026-08-28T00:34:54.003Z",
     "original_repository_info": {
       "archived": false,
       "id": 488843731,
