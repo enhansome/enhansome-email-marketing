@@ -470,7 +470,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,927 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,791 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,739 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27
-* [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,195 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
+* [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,196 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,239 | 🐛 2 | 🌐 HTML | 📅 2026-07-30
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 849 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
 * [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 804 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
