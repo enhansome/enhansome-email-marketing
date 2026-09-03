@@ -179,7 +179,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 
 ### Delivery, outbound & infrastructure-owned
 
-* [Overloop CLI](https://github.com/sortlist/overloop-cli) ⭐ 7 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-01 - AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
+* [Overloop CLI](https://github.com/sortlist/overloop-cli) ⭐ 7 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-03 - AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
 * [Elastic Email](https://elasticemail.com/) - email delivery for transactional sending
 * [Woodpecker](https://woodpecker.co) - outbound email deliverability and sales opportunities
 * [Wraps](https://wraps.dev) - automations/templates/broadcasts sending through your AWS
@@ -312,7 +312,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,457 | 🐛 49 | 📅 2026-04-17
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,458 | 🐛 49 | 📅 2026-04-17
 * [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -482,7 +482,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,226 | 🐛 68 | 🌐 JavaScript | 📅 2026-09-02
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,230 | 🐛 64 | 🌐 JavaScript | 📅 2026-09-03
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,791 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 98 | 🌐 Ruby | 📅 2026-08-19
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,781 | 🐛 22 | 🌐 HTML | 📅 2025-08-22
@@ -493,10 +493,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,892 | 🐛 1,009 | 🌐 TypeScript | 📅 2026-09-02 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,470 | 🐛 39 | 🌐 Python | 📅 2026-09-02
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,892 | 🐛 992 | 🌐 TypeScript | 📅 2026-09-03 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,471 | 🐛 40 | 🌐 Python | 📅 2026-09-03
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,223 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-02
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,222 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-03
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -534,7 +534,7 @@ Adjacent packages and sites (not the core catalog above).
 
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
-* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,852 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
+* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,853 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
 * [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,050 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 315 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-01
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
@@ -855,4 +855,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
