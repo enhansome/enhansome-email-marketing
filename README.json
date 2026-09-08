@@ -206,7 +206,7 @@
                 "open_issues": 10,
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13693,
+                "stars": 13694,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -357,11 +357,11 @@
                 "id": 175222504,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-07-30T12:18:27Z",
+                "last_commit": "2026-09-08T13:44:44Z",
                 "open_issues": 2,
                 "owner": "ColorlibHQ",
                 "repo": "email-templates",
-                "stars": 1238,
+                "stars": 1239,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -503,7 +503,7 @@
                 "open_issues": 64,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18235,
+                "stars": 18236,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -707,11 +707,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-07T17:02:13Z",
-                "open_issues": 996,
+                "last_commit": "2026-09-08T17:42:52Z",
+                "open_issues": 997,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7902,
+                "stars": 7906,
                 "topics": [
                   "email",
                   "encryption",
@@ -736,11 +736,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T12:54:20Z",
+                "last_commit": "2026-09-08T06:44:30Z",
                 "open_issues": 38,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5479,
+                "stars": 5483,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -807,11 +807,11 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-07T14:37:36Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-08T18:36:20Z",
+                "open_issues": 1,
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2223,
+                "stars": 2224,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1119,7 +1119,7 @@
                 "open_issues": 0,
                 "owner": "maizzle",
                 "repo": "maizzle",
-                "stars": 2856,
+                "stars": 2855,
                 "topics": [
                   "email-boilerplate",
                   "email-framework",
@@ -1332,7 +1332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:22:11.751Z",
+    "last_updated": "2026-09-08T18:57:05.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
