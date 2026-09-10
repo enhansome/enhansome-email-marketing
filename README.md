@@ -312,7 +312,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,460 | 🐛 52 | 📅 2026-04-17
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,461 | 🐛 54 | 📅 2026-04-17
 * [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -465,7 +465,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,695 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,696 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
 * [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,025 | 🐛 37 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,926 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,791 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
@@ -482,7 +482,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,234 | 🐛 64 | 🌐 JavaScript | 📅 2026-09-09
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,233 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-10
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,792 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 97 | 🌐 Ruby | 📅 2026-08-19
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,781 | 🐛 22 | 🌐 HTML | 📅 2025-08-22
@@ -493,10 +493,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,907 | 🐛 999 | 🌐 TypeScript | 📅 2026-09-09 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,484 | 🐛 40 | 🌐 Python | 📅 2026-09-09
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,910 | 🐛 1,001 | 🌐 TypeScript | 📅 2026-09-10 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,487 | 🐛 40 | 🌐 Python | 📅 2026-09-10
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,224 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-09
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,225 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-10
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -535,7 +535,7 @@ Adjacent packages and sites (not the core catalog above).
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
 * [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,855 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
-* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,050 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
+* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,051 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 315 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-01
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
 * [React Confirm Email](https://github.com/funador/react-confirm-email) ⭐ 97 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
@@ -855,4 +855,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
