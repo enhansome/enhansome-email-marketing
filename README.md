@@ -97,7 +97,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Self-Hosted ESPs
 
-* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,752 | 🐛 116 | 🌐 JavaScript | 📅 2025-10-05 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
+* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,751 | 🐛 116 | 🌐 JavaScript | 📅 2025-10-05 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
 * [Interspire](https://interspire.com) - Self-hosted Email Marketing Software
 * [Listmonk](https://listmonk.app) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
 * [Mailster](https://mailster.co) - is an easy to use Email Newsletter Plugin for WordPress
@@ -465,13 +465,13 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,697 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,699 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
 * [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,025 | 🐛 37 | 📅 2019-10-23
-* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,925 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
+* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,926 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,789 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,738 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,194 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
-* [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,239 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
+* [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,240 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 848 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
 * [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 804 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
 * [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2022-03-31 - Responsive HTML email template starter
@@ -482,8 +482,8 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,239 | 🐛 59 | 🌐 JavaScript | 📅 2026-09-10
-* [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,793 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,241 | 🐛 59 | 🌐 JavaScript | 📅 2026-09-10
+* [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,794 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 97 | 🌐 Ruby | 📅 2026-08-19
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,781 | 🐛 22 | 🌐 HTML | 📅 2025-08-22
 * [Email Framework](https://github.com/g13nn/Email-Framework) ⭐ 1,669 | 🐛 0 | 🌐 HTML | 📅 2024-03-18
@@ -493,10 +493,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,917 | 🐛 998 | 🌐 TypeScript | 📅 2026-09-14 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,493 | 🐛 40 | 🌐 Python | 📅 2026-09-14
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,919 | 🐛 976 | 🌐 TypeScript | 📅 2026-09-15 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,496 | 🐛 42 | 🌐 Python | 📅 2026-09-15
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,226 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-14
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,227 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -703,7 +703,7 @@ Concepts, guides, and providers for transactional email. Docs: [`website/docs/mo
 
 #### Templates
 
-* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,925 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
+* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,926 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 
 ***
 
@@ -825,7 +825,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,745 | 🐛 49 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,744 | 🐛 49 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 200 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -855,4 +855,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
