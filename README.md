@@ -482,7 +482,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,243 | 🐛 58 | 🌐 JavaScript | 📅 2026-09-10
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,242 | 🐛 56 | 🌐 JavaScript | 📅 2026-09-10
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,794 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 97 | 🌐 Ruby | 📅 2026-08-19
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,781 | 🐛 22 | 🌐 HTML | 📅 2025-08-22
@@ -493,10 +493,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,920 | 🐛 974 | 🌐 TypeScript | 📅 2026-09-16 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,499 | 🐛 41 | 🌐 Python | 📅 2026-09-16
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,920 | 🐛 977 | 🌐 TypeScript | 📅 2026-09-17 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,502 | 🐛 41 | 🌐 Python | 📅 2026-09-17
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,226 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-15
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,226 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-17
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -825,7 +825,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,744 | 🐛 50 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,744 | 🐛 51 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 200 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -855,4 +855,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
