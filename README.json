@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "Mailtrain-org",
                 "repo": "mailtrain",
-                "stars": 5753,
+                "stars": 5754,
                 "topics": [
                   "email-marketing",
                   "mailtrain",
@@ -29,11 +29,78 @@
                 ]
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MailySend",
+              "description": "is a self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts with A/B testing, inbound mailboxes, and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server, sending through Cloudflare Email Service, Amazon SES, Resend or SMTP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Resend-compatible email platform on Cloudflare Workers — transactional sending, broadcasts, automations, inbound mail and deliverability analytics. MIT, one-click deployable into your own account.",
+                "homepage": "https://mailysend.com",
+                "id": 1362397051,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-09-21T12:24:25Z",
+                "open_issues": 1,
+                "owner": "GagnDeep",
+                "repo": "mailysend",
+                "stars": 34,
+                "topics": [
+                  "cloudflare-workers",
+                  "deliverability",
+                  "email",
+                  "hono",
+                  "resend",
+                  "self-hosted",
+                  "smtp",
+                  "tanstack-start",
+                  "transactional-email",
+                  "typescript"
+                ]
+              },
+              "first_seen": "2026-09-26T18:41:56.047Z"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Self-Hosted ESPs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Email Campaign Preflight",
+              "description": "Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Evaluation reports and licensing details for an offline HTML email preflight CLI",
+                "homepage": null,
+                "id": 1352921038,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-01T14:40:54Z",
+                "open_issues": 0,
+                "owner": "Kndll33",
+                "repo": "email-campaign-preflight-demo",
+                "stars": 1,
+                "topics": [
+                  "email-development",
+                  "email-marketing",
+                  "email-testing",
+                  "klaviyo",
+                  "quality-assurance",
+                  "static-analysis"
+                ]
+              },
+              "first_seen": "2026-09-26T18:41:56.047Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deliverability & Testing Tools"
         }
       ],
       "title": "Best Email Marketing Tools"
@@ -73,6 +140,43 @@
       "title": "Automation Email Marketing platform"
     },
     {
+      "description": "Order is :",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cold Email Italy Observatory",
+          "description": "Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by industry, CC BY 4.0",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Dati aperti sulla cold email B2B italiana: Indice Outbound Italia (reply rate mediano 1,71% su 556 campagne) e benchmark per settore. CC BY 4.0, DOI 10.5281/zenodo.21541001",
+            "homepage": "https://clientium.it/osservatorio/indice-outbound-italia/",
+            "id": 1298047681,
+            "language": null,
+            "license": "CC-BY-4.0",
+            "last_commit": "2026-08-03T07:20:40Z",
+            "open_issues": 0,
+            "owner": "arnold222a",
+            "repo": "osservatorio-cold-email-italia",
+            "stars": 0,
+            "topics": [
+              "b2b",
+              "benchmark",
+              "cold-email",
+              "dataset",
+              "email-marketing",
+              "italia",
+              "italy",
+              "lead-generation",
+              "open-data"
+            ]
+          },
+          "first_seen": "2026-09-26T18:41:56.047Z"
+        }
+      ],
+      "title": "Data Driven Email Marketing"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -91,7 +195,7 @@
             "open_issues": 55,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4473,
+            "stars": 4474,
             "topics": [
               "awesome",
               "awesome-list",
@@ -206,7 +310,7 @@
                 "open_issues": 11,
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13703,
+                "stars": 13702,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -235,7 +339,7 @@
                 "open_issues": 36,
                 "owner": "mailchimp",
                 "repo": "email-blueprints",
-                "stars": 7025,
+                "stars": 7024,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -256,7 +360,7 @@
                 "open_issues": 12,
                 "owner": "mailgun",
                 "repo": "transactional-email-templates",
-                "stars": 6926,
+                "stars": 6925,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -361,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "ColorlibHQ",
                 "repo": "email-templates",
-                "stars": 1242,
+                "stars": 1241,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -503,7 +607,7 @@
                 "open_issues": 50,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18248,
+                "stars": 18249,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -580,7 +684,7 @@
                 "open_issues": 18,
                 "owner": "voidlabs",
                 "repo": "mosaico",
-                "stars": 1782,
+                "stars": 1783,
                 "topics": [
                   "builder",
                   "email",
@@ -679,7 +783,7 @@
                 "open_issues": 1,
                 "owner": "foundation",
                 "repo": "inky",
-                "stars": 705,
+                "stars": 706,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -708,10 +812,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-25T19:16:17Z",
-                "open_issues": 977,
+                "open_issues": 978,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7946,
+                "stars": 7948,
                 "topics": [
                   "email",
                   "encryption",
@@ -736,8 +840,8 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-25T06:59:46Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-26T03:52:42Z",
+                "open_issues": 44,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
                 "stars": 5529,
@@ -807,7 +911,7 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T20:13:30Z",
+                "last_commit": "2026-09-26T12:30:56Z",
                 "open_issues": 1,
                 "owner": "postalsys",
                 "repo": "emailengine",
@@ -1290,7 +1394,7 @@
             "open_issues": 51,
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2748,
+            "stars": 2749,
             "topics": [
               "awesome",
               "email",
@@ -1332,7 +1436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:30:19.691Z",
+    "last_updated": "2026-09-26T18:41:56.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
@@ -1340,8 +1444,8 @@
       "id": 488843731,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-07-31T00:09:47Z",
-      "open_issues": 23,
+      "last_commit": "2026-09-26T01:21:15Z",
+      "open_issues": 12,
       "owner": "LLazyEmail",
       "repo": "awesome-email-marketing",
       "stars": 72,
@@ -1355,7 +1459,7 @@
         "marketing"
       ]
     },
-    "original_repository_sha": "3aed68459144534a83c8794ef9ce0d4f24bd3717",
+    "original_repository_sha": "e4297915aa721d4a143908cf8b224d6ae38a8fc2",
     "enhanced_repository": "enhansome/enhansome-email-marketing",
     "enhanced_repository_description": null,
     "title": "✉ Awesome Email Marketing List 👩‍💻👨‍💻 with stars"
