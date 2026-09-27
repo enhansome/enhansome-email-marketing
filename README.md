@@ -105,6 +105,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
 * [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
 * [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
+* [Xem](https://xem.email/) - Open-source email marketing with newsletters, templates, audience lists, and visual automations; supports custom SMTP and managed sending through Amazon SES.
 
 ### Email Builders & Templates
 
@@ -320,7 +321,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,474 | 🐛 55 | 📅 2026-04-17
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,482 | 🐛 55 | 📅 2026-04-17
 * [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -476,7 +477,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 * [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,702 | 🐛 11 | 🌐 HTML | 📅 2024-08-20
 * [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,024 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,925 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
-* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,789 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
+* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,788 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,738 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,193 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,241 | 🐛 3 | 🌐 HTML | 📅 2026-09-08
@@ -490,7 +491,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,249 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-25
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,250 | 🐛 50 | 🌐 JavaScript | 📅 2026-09-25
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,794 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 96 | 🌐 Ruby | 📅 2026-09-20
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,783 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
@@ -501,10 +502,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,948 | 🐛 978 | 🌐 TypeScript | 📅 2026-09-25 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,529 | 🐛 44 | 🌐 Python | 📅 2026-09-26
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,951 | 🐛 980 | 🌐 TypeScript | 📅 2026-09-25 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,529 | 🐛 44 | 🌐 Python | 📅 2026-09-27
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,229 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-26
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,232 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-27
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -864,4 +865,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
