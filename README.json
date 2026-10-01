@@ -191,11 +191,11 @@
             "id": 40307075,
             "language": null,
             "license": null,
-            "last_commit": "2026-04-17T18:23:06Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-01T13:40:00Z",
+            "open_issues": 52,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4489,
+            "stars": 4491,
             "topics": [
               "awesome",
               "awesome-list",
@@ -360,7 +360,7 @@
                 "open_issues": 12,
                 "owner": "mailgun",
                 "repo": "transactional-email-templates",
-                "stars": 6926,
+                "stars": 6927,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3738,
+                "stars": 3739,
                 "topics": [
                   "css",
                   "custom",
@@ -603,11 +603,11 @@
                 "id": 50586840,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-30T15:25:45Z",
+                "last_commit": "2026-10-01T13:21:34Z",
                 "open_issues": 50,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18251,
+                "stars": 18252,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -656,7 +656,7 @@
                 "open_issues": 96,
                 "owner": "premailer",
                 "repo": "premailer",
-                "stars": 2416,
+                "stars": 2417,
                 "topics": [
                   "css",
                   "inline",
@@ -811,11 +811,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T16:23:33Z",
-                "open_issues": 989,
+                "last_commit": "2026-10-01T17:13:06Z",
+                "open_issues": 985,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7967,
+                "stars": 7969,
                 "topics": [
                   "email",
                   "encryption",
@@ -840,11 +840,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T04:20:09Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-01T20:21:06Z",
+                "open_issues": 44,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5537,
+                "stars": 5541,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -873,7 +873,7 @@
                 "open_issues": 24,
                 "owner": "forwardemail",
                 "repo": "free-email-forwarding",
-                "stars": 2430,
+                "stars": 2429,
                 "topics": [
                   "custom",
                   "domains",
@@ -911,8 +911,8 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T14:11:56Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-01T12:31:42Z",
+                "open_issues": 0,
                 "owner": "postalsys",
                 "repo": "emailengine",
                 "stars": 2233,
@@ -1118,7 +1118,7 @@
                 "open_issues": 15,
                 "owner": "breakdance",
                 "repo": "breakdance",
-                "stars": 539,
+                "stars": 537,
                 "topics": [
                   "commonmark",
                   "compile",
@@ -1436,7 +1436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:16:27.762Z",
+    "last_updated": "2026-10-01T20:28:40.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
