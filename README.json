@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "Blockchain / Cryptocurrencies",
-          "description": null,
+          "description": "zudochkin/awesome-newsletters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -195,7 +195,7 @@
             "open_issues": 52,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4492,
+            "stars": 4494,
             "topics": [
               "awesome",
               "awesome-list",
@@ -222,7 +222,7 @@
                     {
                       "node_type": "item",
                       "title": "Free HTML Email Templates",
-                      "description": null,
+                      "description": "designmodo/html-email-templates",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -250,7 +250,7 @@
                     {
                       "node_type": "item",
                       "title": "Responsive Email",
-                      "description": null,
+                      "description": "derekpunsalan/responsive-email",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "Free Responsive HTML Email Template",
-              "description": null,
+              "description": "leemunroe/responsive-html-email-template",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -326,7 +326,7 @@
             {
               "node_type": "item",
               "title": "Email Blueprints",
-              "description": null,
+              "description": "mailchimp/email-blueprints",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
             {
               "node_type": "item",
               "title": "Responsive transactional HTML email templates",
-              "description": null,
+              "description": "mailgun/transactional-email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +368,7 @@
             {
               "node_type": "item",
               "title": "Email-Boilerplate",
-              "description": null,
+              "description": "seanpowell/Email-Boilerplate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -389,7 +389,7 @@
             {
               "node_type": "item",
               "title": "Email Templates (forwardemail)",
-              "description": null,
+              "description": "forwardemail/email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -431,7 +431,7 @@
             {
               "node_type": "item",
               "title": "Postmark Transactional Email Templates",
-              "description": null,
+              "description": "ActiveCampaign/postmark-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -452,7 +452,7 @@
             {
               "node_type": "item",
               "title": "Free Email Templates by Colorlib",
-              "description": null,
+              "description": "ColorlibHQ/email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -482,7 +482,7 @@
             {
               "node_type": "item",
               "title": "SendGrid email templates",
-              "description": null,
+              "description": "sendgrid/email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -503,7 +503,7 @@
             {
               "node_type": "item",
               "title": "Responsive HTML email templates (konsav)",
-              "description": null,
+              "description": "konsav/email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -594,7 +594,7 @@
             {
               "node_type": "item",
               "title": "MJML",
-              "description": null,
+              "description": "mjmlio/mjml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -607,7 +607,7 @@
                 "open_issues": 50,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18252,
+                "stars": 18253,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -622,7 +622,7 @@
             {
               "node_type": "item",
               "title": "Foundation for Emails",
-              "description": null,
+              "description": "foundation/foundation-emails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -643,7 +643,7 @@
             {
               "node_type": "item",
               "title": "Premailer",
-              "description": null,
+              "description": "premailer/premailer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -671,7 +671,7 @@
             {
               "node_type": "item",
               "title": "Mosaico - Responsive Email Template Editor",
-              "description": null,
+              "description": "voidlabs/mosaico",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -699,7 +699,7 @@
             {
               "node_type": "item",
               "title": "Email Framework",
-              "description": null,
+              "description": "g13nn/Email-Framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "Mjml react",
-              "description": null,
+              "description": "wix-incubator/mjml-react",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -749,7 +749,7 @@
             {
               "node_type": "item",
               "title": "React html email",
-              "description": null,
+              "description": "chromakode/react-html-email",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,7 @@
             {
               "node_type": "item",
               "title": "Inky",
-              "description": null,
+              "description": "foundation/inky",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -831,7 +831,7 @@
             {
               "node_type": "item",
               "title": "List of disposable email domains",
-              "description": null,
+              "description": "disposable-email-domains/disposable-email-domains",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -840,11 +840,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T05:50:26Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-03T04:06:55Z",
+                "open_issues": 46,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5542,
+                "stars": 5543,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "Forward email",
-              "description": null,
+              "description": "forwardemail/free-email-forwarding",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -902,7 +902,7 @@
             {
               "node_type": "item",
               "title": "EmailEngine Email API",
-              "description": null,
+              "description": "postalsys/emailengine",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -923,7 +923,7 @@
             {
               "node_type": "item",
               "title": "SMTP Email Verification",
-              "description": null,
+              "description": "EmailVerify/email-verify",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -951,7 +951,7 @@
             {
               "node_type": "item",
               "title": "Mailwind",
-              "description": null,
+              "description": "soheilpro/mailwind",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -979,7 +979,7 @@
             {
               "node_type": "item",
               "title": "Email Lab",
-              "description": null,
+              "description": "sparkbox/email-lab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1000,7 +1000,7 @@
             {
               "node_type": "item",
               "title": "Email templates",
-              "description": null,
+              "description": "mjmlio/email-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1026,7 +1026,7 @@
             {
               "node_type": "item",
               "title": "Generating Emails with React",
-              "description": null,
+              "description": "lang-ai/react-emails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1051,7 +1051,7 @@
             {
               "node_type": "item",
               "title": "HTML tag validator",
-              "description": null,
+              "description": "pluralsight/htmlTagValidator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1072,7 +1072,7 @@
             {
               "node_type": "item",
               "title": "Markdown To Mailchimp (github.com)",
-              "description": null,
+              "description": "MarcL/markdown-to-mailchimp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1105,7 +1105,7 @@
             {
               "node_type": "item",
               "title": "Breakdance",
-              "description": null,
+              "description": "breakdance/breakdance",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1143,7 +1143,7 @@
             {
               "node_type": "item",
               "title": "Snapdragon",
-              "description": null,
+              "description": "here-be/snapdragon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1179,7 +1179,7 @@
             {
               "node_type": "item",
               "title": "HTML element attributes (github.com)",
-              "description": null,
+              "description": "wooorm/html-element-attributes",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1210,7 +1210,7 @@
             {
               "node_type": "item",
               "title": "Maizzle",
-              "description": null,
+              "description": "maizzle/maizzle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1241,7 +1241,7 @@
             {
               "node_type": "item",
               "title": "Bojler",
-              "description": null,
+              "description": "Slicejack/bojler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1254,7 +1254,7 @@
                 "open_issues": 7,
                 "owner": "Slicejack",
                 "repo": "bojler",
-                "stars": 1051,
+                "stars": 1052,
                 "topics": [
                   "css",
                   "css-framework",
@@ -1274,7 +1274,7 @@
             {
               "node_type": "item",
               "title": "React multi email",
-              "description": null,
+              "description": "axisj/react-multi-email",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "Generating Emails with React",
-              "description": null,
+              "description": "lang-ai/react-emails",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1324,7 +1324,7 @@
             {
               "node_type": "item",
               "title": "React Confirm Email",
-              "description": null,
+              "description": "funador/react-confirm-email",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1345,7 +1345,7 @@
             {
               "node_type": "item",
               "title": "Pechkin",
-              "description": null,
+              "description": "sglazov/pechkin",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1381,7 +1381,7 @@
         {
           "node_type": "item",
           "title": "Sister Repository",
-          "description": null,
+          "description": "jonathandion/awesome-emails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1394,7 +1394,7 @@
             "open_issues": 52,
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2750,
+            "stars": 2751,
             "topics": [
               "awesome",
               "email",
@@ -1413,7 +1413,7 @@
         {
           "node_type": "item",
           "title": "Awesome-augmented",
-          "description": null,
+          "description": "chaconnewu/awesome-augmented",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1436,7 +1436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:06:45.216Z",
+    "last_updated": "2026-10-03T04:41:34.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
