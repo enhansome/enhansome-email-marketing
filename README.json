@@ -126,7 +126,7 @@
                 "open_issues": 8,
                 "owner": "sortlist",
                 "repo": "overloop-cli",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -360,7 +360,7 @@
                 "open_issues": 12,
                 "owner": "mailgun",
                 "repo": "transactional-email-templates",
-                "stars": 6926,
+                "stars": 6927,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -607,7 +607,7 @@
                 "open_issues": 50,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18253,
+                "stars": 18252,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -811,11 +811,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T16:48:04Z",
-                "open_issues": 991,
+                "last_commit": "2026-10-04T16:11:01Z",
+                "open_issues": 992,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7979,
+                "stars": 7982,
                 "topics": [
                   "email",
                   "encryption",
@@ -841,10 +841,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-03T06:26:23Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5544,
+                "stars": 5546,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -911,7 +911,7 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T06:26:05Z",
+                "last_commit": "2026-10-03T20:06:32Z",
                 "open_issues": 1,
                 "owner": "postalsys",
                 "repo": "emailengine",
@@ -1223,7 +1223,7 @@
                 "open_issues": 0,
                 "owner": "maizzle",
                 "repo": "maizzle",
-                "stars": 2863,
+                "stars": 2864,
                 "topics": [
                   "email-boilerplate",
                   "email-framework",
@@ -1436,7 +1436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:48:29.854Z",
+    "last_updated": "2026-10-04T18:45:53.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
