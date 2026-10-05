@@ -43,7 +43,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-21T12:24:25Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "GagnDeep",
                 "repo": "mailysend",
                 "stars": 35,
@@ -195,7 +195,7 @@
             "open_issues": 52,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4494,
+            "stars": 4495,
             "topics": [
               "awesome",
               "awesome-list",
@@ -339,7 +339,7 @@
                 "open_issues": 36,
                 "owner": "mailchimp",
                 "repo": "email-blueprints",
-                "stars": 7024,
+                "stars": 7023,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3739,
+                "stars": 3738,
                 "topics": [
                   "css",
                   "custom",
@@ -465,7 +465,7 @@
                 "open_issues": 3,
                 "owner": "ColorlibHQ",
                 "repo": "email-templates",
-                "stars": 1240,
+                "stars": 1241,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -495,7 +495,7 @@
                 "open_issues": 29,
                 "owner": "sendgrid",
                 "repo": "email-templates",
-                "stars": 847,
+                "stars": 848,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -603,11 +603,11 @@
                 "id": 50586840,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T13:21:34Z",
+                "last_commit": "2026-10-05T15:31:53Z",
                 "open_issues": 50,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18252,
+                "stars": 18253,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -811,11 +811,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-04T16:11:01Z",
-                "open_issues": 992,
+                "last_commit": "2026-10-05T17:28:00Z",
+                "open_issues": 1000,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7982,
+                "stars": 7981,
                 "topics": [
                   "email",
                   "encryption",
@@ -840,11 +840,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T06:26:23Z",
+                "last_commit": "2026-10-05T09:34:43Z",
                 "open_issues": 46,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5546,
+                "stars": 5548,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -873,7 +873,7 @@
                 "open_issues": 24,
                 "owner": "forwardemail",
                 "repo": "free-email-forwarding",
-                "stars": 2428,
+                "stars": 2429,
                 "topics": [
                   "custom",
                   "domains",
@@ -911,11 +911,11 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T20:06:32Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-05T13:21:24Z",
+                "open_issues": 0,
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2236,
+                "stars": 2238,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1287,7 +1287,7 @@
                 "open_issues": 23,
                 "owner": "axisj",
                 "repo": "react-multi-email",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "express",
                   "multi-email",
@@ -1391,7 +1391,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-10-03T21:09:35Z",
-            "open_issues": 52,
+            "open_issues": 50,
             "owner": "jonathandion",
             "repo": "awesome-emails",
             "stars": 2752,
@@ -1436,7 +1436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:45:53.175Z",
+    "last_updated": "2026-10-05T22:09:50.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
