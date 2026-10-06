@@ -321,7 +321,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,495 | 🐛 52 | 📅 2026-10-01
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,494 | 🐛 52 | 📅 2026-10-01
 * [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -491,7 +491,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,253 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-05
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,252 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-06
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,792 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,417 | 🐛 96 | 🌐 Ruby | 📅 2026-09-20
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,784 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
@@ -502,8 +502,8 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,981 | 🐛 1,000 | 🌐 TypeScript | 📅 2026-10-05 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,548 | 🐛 46 | 🌐 Python | 📅 2026-10-05
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,982 | 🐛 1,002 | 🌐 TypeScript | 📅 2026-10-06 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,550 | 🐛 47 | 🌐 Python | 📅 2026-10-06
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
 * [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,238 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-05
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
@@ -865,4 +865,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
