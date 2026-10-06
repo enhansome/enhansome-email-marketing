@@ -478,7 +478,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 * [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,023 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,927 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,786 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
-* [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,738 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27
+* [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,739 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,194 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,241 | 🐛 3 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 848 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
@@ -491,7 +491,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,252 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-06
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,251 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-06
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,792 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,417 | 🐛 96 | 🌐 Ruby | 📅 2026-09-20
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,784 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
@@ -502,10 +502,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,982 | 🐛 1,002 | 🌐 TypeScript | 📅 2026-10-06 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,550 | 🐛 47 | 🌐 Python | 📅 2026-10-06
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 7,983 | 🐛 985 | 🌐 TypeScript | 📅 2026-10-06 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,548 | 🐛 47 | 🌐 Python | 📅 2026-10-06
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,238 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-05
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,237 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
