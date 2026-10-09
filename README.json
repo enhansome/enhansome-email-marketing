@@ -195,7 +195,7 @@
             "open_issues": 52,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4497,
+            "stars": 4498,
             "topics": [
               "awesome",
               "awesome-list",
@@ -310,7 +310,7 @@
                 "open_issues": 11,
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13705,
+                "stars": 13703,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -360,7 +360,7 @@
                 "open_issues": 12,
                 "owner": "mailgun",
                 "repo": "transactional-email-templates",
-                "stars": 6927,
+                "stars": 6926,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -402,7 +402,7 @@
                 "open_issues": 1,
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3738,
+                "stars": 3737,
                 "topics": [
                   "css",
                   "custom",
@@ -603,11 +603,11 @@
                 "id": 50586840,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-08T15:51:49Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-09T11:26:13Z",
+                "open_issues": 48,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18255,
+                "stars": 18253,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -684,7 +684,7 @@
                 "open_issues": 18,
                 "owner": "voidlabs",
                 "repo": "mosaico",
-                "stars": 1784,
+                "stars": 1783,
                 "topics": [
                   "builder",
                   "email",
@@ -811,11 +811,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T16:13:04Z",
-                "open_issues": 978,
+                "last_commit": "2026-10-09T16:08:03Z",
+                "open_issues": 982,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7987,
+                "stars": 7990,
                 "topics": [
                   "email",
                   "encryption",
@@ -840,11 +840,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T06:15:21Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-09T08:26:45Z",
+                "open_issues": 49,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5553,
+                "stars": 5555,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -873,7 +873,7 @@
                 "open_issues": 24,
                 "owner": "forwardemail",
                 "repo": "free-email-forwarding",
-                "stars": 2429,
+                "stars": 2431,
                 "topics": [
                   "custom",
                   "domains",
@@ -1436,7 +1436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:47:43.250Z",
+    "last_updated": "2026-10-09T20:18:21.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
