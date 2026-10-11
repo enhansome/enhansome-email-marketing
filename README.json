@@ -61,6 +61,43 @@
                 ]
               },
               "first_seen": "2026-09-26T18:41:56.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Scribase Mail Studio",
+              "description": "is an open-source (AGPL-3.0), self-hostable transactional email platform with a Resend-compatible API: keep the Resend SDK and change the base URL. One-command Docker Compose self-host, domain verification with local DKIM signing, API keys, webhooks and a dashboard; sends through any SMTP provider.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-hosted Resend alternative: Resend-compatible email API, dashboard, domains, webhooks, broadcasts and inbound. Switch with one line. AGPL fork of useSend.",
+                "homepage": "https://scribase.com/mail",
+                "id": 1409418405,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-10-08T09:57:32Z",
+                "open_issues": 0,
+                "owner": "caelum0x",
+                "repo": "scribase-mail-studio",
+                "stars": 0,
+                "topics": [
+                  "email",
+                  "email-api",
+                  "email-marketing",
+                  "newsletter",
+                  "nextjs",
+                  "open-source",
+                  "oracle-cloud",
+                  "resend",
+                  "resend-alternative",
+                  "self-hosted",
+                  "smtp",
+                  "transactional-email",
+                  "typescript",
+                  "usesend",
+                  "webhooks"
+                ]
+              },
+              "first_seen": "2026-10-11T19:41:01.586Z"
             }
           ],
           "description": null,
@@ -101,6 +138,44 @@
           "description": null,
           "node_type": "group",
           "title": "Deliverability & Testing Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Email Marketing Bible",
+              "description": "Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Email marketing skill for Claude Code. 88K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert.",
+                "homepage": "https://nitrosend.com/email-marketing-bible",
+                "id": 1153111797,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-10-09T10:28:40Z",
+                "open_issues": 1,
+                "owner": "CosmoBlk",
+                "repo": "email-marketing-bible",
+                "stars": 332,
+                "topics": [
+                  "agent-skills",
+                  "ai-skill",
+                  "claude-code",
+                  "copywriting",
+                  "deliverability",
+                  "ecommerce",
+                  "email-marketing",
+                  "marketing-automation",
+                  "saas"
+                ]
+              },
+              "first_seen": "2026-10-11T19:41:01.586Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Growth & Automation Tools"
         }
       ],
       "title": "Best Email Marketing Tools"
@@ -310,7 +385,7 @@
                 "open_issues": 11,
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13706,
+                "stars": 13705,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -635,7 +710,7 @@
                 "open_issues": 3,
                 "owner": "foundation",
                 "repo": "foundation-emails",
-                "stars": 7792,
+                "stars": 7791,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -815,7 +890,7 @@
                 "open_issues": 982,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 7995,
+                "stars": 7996,
                 "topics": [
                   "email",
                   "encryption",
@@ -840,11 +915,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T04:40:13Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-11T19:05:20Z",
+                "open_issues": 49,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5559,
+                "stars": 5561,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -915,7 +990,7 @@
                 "open_issues": 0,
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2237,
+                "stars": 2239,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1426,7 +1501,7 @@
             "open_issues": 2,
             "owner": "chaconnewu",
             "repo": "awesome-augmented",
-            "stars": 200,
+            "stars": 201,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1436,7 +1511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T19:29:13.967Z",
+    "last_updated": "2026-10-11T19:41:01.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
@@ -1444,8 +1519,8 @@
       "id": 488843731,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-09-28T00:42:56Z",
-      "open_issues": 35,
+      "last_commit": "2026-10-11T00:21:23Z",
+      "open_issues": 33,
       "owner": "LLazyEmail",
       "repo": "awesome-email-marketing",
       "stars": 72,
@@ -1459,7 +1534,7 @@
         "marketing"
       ]
     },
-    "original_repository_sha": "d7b77b9edc390aed8d720413a3244ffef4989164",
+    "original_repository_sha": "2f6c98e0de42941cd56e67f83053a3c6fe321b61",
     "enhanced_repository": "enhansome/enhansome-email-marketing",
     "enhanced_repository_description": null,
     "title": "✉ Awesome Email Marketing List 👩‍💻👨‍💻 with stars"
