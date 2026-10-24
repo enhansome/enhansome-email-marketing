@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "Mailtrain-org",
                 "repo": "mailtrain",
-                "stars": 5757,
+                "stars": 5755,
                 "topics": [
                   "email-marketing",
                   "mailtrain",
@@ -74,7 +74,7 @@
                 "id": 1409418405,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T14:21:47Z",
+                "last_commit": "2026-10-23T21:44:31Z",
                 "open_issues": 4,
                 "owner": "caelum0x",
                 "repo": "scribase-mail-studio",
@@ -134,6 +134,62 @@
                 ]
               },
               "first_seen": "2026-09-26T18:41:56.047Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Email Forgery Check",
+              "description": "Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. (source)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Can email in your name be forged? Browser-only SPF, DKIM and DMARC check over DNS-over-HTTPS - no server, nothing stored",
+                "homepage": "https://stephen-psaradellis.github.io/demos/email-forgery-check.html",
+                "id": 1419124681,
+                "language": "HTML",
+                "license": "MIT",
+                "last_commit": "2026-10-14T17:17:57Z",
+                "open_issues": 0,
+                "owner": "Stephen-Psaradellis",
+                "repo": "email-forgery-check",
+                "stars": 0,
+                "topics": [
+                  "dkim",
+                  "dmarc",
+                  "dns-over-https",
+                  "email-security",
+                  "spf"
+                ]
+              },
+              "first_seen": "2026-10-24T18:20:22.673Z"
+            },
+            {
+              "node_type": "item",
+              "title": "oneclick-check",
+              "description": "Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Check raw email headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rules). stdlib Python.",
+                "homepage": null,
+                "id": 1413634287,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-10T20:26:25Z",
+                "open_issues": 0,
+                "owner": "dimonch-byte",
+                "repo": "oneclick-check",
+                "stars": 0,
+                "topics": [
+                  "bulk-sender",
+                  "cli",
+                  "email-deliverability",
+                  "gmail",
+                  "list-unsubscribe",
+                  "rfc8058",
+                  "yahoo"
+                ]
+              },
+              "first_seen": "2026-10-24T18:20:22.673Z"
             }
           ],
           "description": null,
@@ -271,7 +327,7 @@
             "open_issues": 65,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4504,
+            "stars": 4506,
             "topics": [
               "awesome",
               "awesome-list",
@@ -311,7 +367,7 @@
                         "open_issues": 0,
                         "owner": "designmodo",
                         "repo": "html-email-templates",
-                        "stars": 289,
+                        "stars": 288,
                         "topics": [
                           "email",
                           "email-marketing",
@@ -711,7 +767,7 @@
                 "open_issues": 3,
                 "owner": "foundation",
                 "repo": "foundation-emails",
-                "stars": 7789,
+                "stars": 7788,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -729,7 +785,7 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-07T21:11:35Z",
-                "open_issues": 98,
+                "open_issues": 100,
                 "owner": "premailer",
                 "repo": "premailer",
                 "stars": 2418,
@@ -788,7 +844,7 @@
                 "open_issues": 0,
                 "owner": "g13nn",
                 "repo": "Email-Framework",
-                "stars": 1667,
+                "stars": 1666,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -887,11 +943,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T15:02:12Z",
-                "open_issues": 960,
+                "last_commit": "2026-10-24T14:02:23Z",
+                "open_issues": 959,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 8039,
+                "stars": 8042,
                 "topics": [
                   "email",
                   "encryption",
@@ -916,11 +972,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T16:45:59Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-24T03:34:10Z",
+                "open_issues": 55,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5612,
+                "stars": 5616,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -1512,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:31:00.627Z",
+    "last_updated": "2026-10-24T18:20:22.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
@@ -1520,11 +1576,11 @@
       "id": 488843731,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-10-20T20:53:42Z",
-      "open_issues": 43,
+      "last_commit": "2026-10-24T09:24:59Z",
+      "open_issues": 49,
       "owner": "LLazyEmail",
       "repo": "awesome-email-marketing",
-      "stars": 73,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1535,7 +1591,7 @@
         "marketing"
       ]
     },
-    "original_repository_sha": "4ed2b6e8884baa6f39ac1d3152682d1be21c86b9",
+    "original_repository_sha": "874bb861b7ee2e6c33391d0bd195f8cebc4d8571",
     "enhanced_repository": "enhansome/enhansome-email-marketing",
     "enhanced_repository_description": null,
     "title": "✉ Awesome Email Marketing List 👩‍💻👨‍💻 with stars"
