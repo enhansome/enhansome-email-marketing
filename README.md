@@ -133,7 +133,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Growth & Automation Tools
 
-* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 358 | 🐛 1 | 📅 2026-10-13 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
+* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 359 | 🐛 1 | 📅 2026-10-13 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 * [ActiveCampaign](https://activecampaign.com) - Drive growth with customer experience automation
 * [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
@@ -485,7 +485,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,706 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,707 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
 * [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,020 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,921 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,784 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
@@ -513,8 +513,8 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,069 | 🐛 953 | 🌐 TypeScript | 📅 2026-10-30 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,647 | 🐛 52 | 🌐 Python | 📅 2026-10-30
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,080 | 🐛 955 | 🌐 TypeScript | 📅 2026-10-30 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,648 | 🐛 52 | 🌐 Python | 📅 2026-10-31
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
 * [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,245 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
@@ -532,7 +532,7 @@ Adjacent packages and sites (not the core catalog above).
 
 * [Mailwind](https://github.com/soheilpro/mailwind) ⭐ 3,183 | 🐛 4 | 🌐 JavaScript | 📅 2023-11-06
 * [Email Lab](https://github.com/sparkbox/email-lab) ⭐ 282 | 🐛 9 | 🌐 JavaScript | 📅 2022-12-11
-* [Email templates](https://github.com/mjmlio/email-templates) ⭐ 186 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21
+* [Email templates](https://github.com/mjmlio/email-templates) ⭐ 185 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-21
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
 * [HTML tag validator](https://github.com/pluralsight/htmlTagValidator) ⚠️ Archived
 * [Markdown To Mailchimp (github.com)](https://github.com/MarcL/markdown-to-mailchimp) ⭐ 15 | 🐛 12 | 🌐 JavaScript | 📅 2023-01-06
@@ -846,7 +846,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,768 | 🐛 54 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,768 | 🐛 55 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 202 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -876,4 +876,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
