@@ -98,7 +98,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Self-Hosted ESPs
 
-* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,755 | 🐛 116 | 🌐 JavaScript | 📅 2025-10-05 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
+* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,756 | 🐛 117 | 🌐 JavaScript | 📅 2025-10-05 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
 * [MailySend](https://github.com/GagnDeep/mailysend) ⭐ 41 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - is a self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts with A/B testing, inbound mailboxes, and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server, sending through Cloudflare Email Service, Amazon SES, Resend or SMTP.
 * [Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio) ⭐ 0 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-05 - is a self-hosted, Resend-compatible email API and dashboard (AGPL fork of useSend): domains, webhooks, broadcasts and inbound, with a one-line SDK switch from Resend.
 * [Interspire](https://interspire.com) - Self-hosted Email Marketing Software
@@ -111,6 +111,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Email Builders & Templates
 
+* [EMAIL.md](https://github.com/kingadow/email-design-md) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-06 - A free design system for email that AI can follow, with a Figma checklist, Claude skills and a full demo brand
 * [BEE](https://beefree.io) - Create beautiful emails, fast.
 * [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
 * [Mailbakery](https://mailbakery.com) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
@@ -120,26 +121,47 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 ### Deliverability & Testing Tools
 
 * [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) ⭐ 1 | 🐛 0 | 📅 2026-09-01 - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
+
 * [Email Forgery Check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) - Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. ([source](https://github.com/Stephen-Psaradellis/email-forgery-check) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-10-14)
+
 * [oneclick-check](https://github.com/dimonch-byte/oneclick-check) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-10-10 - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
+
 * [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
+
 * [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
+
+* [Emailens](https://emailens.dev) - Lints HTML email against 21 clients (Outlook Classic, Gmail, Apple Mail and more) with per-client CSS support, dark mode simulation and copy-paste fixes. Free tier, plus a CLI, GitHub Action and MCP server.
+
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
+
 * [Sendgrid](https://sendgrid.com) - Email delivery service
+
 * [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
+
 * [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in \~30s, with a spam-risk score.
+
 * [Bulk Email Verifier](https://apify.com/wintersworks/bulk-email-verifier-dns) - Clean a list before sending: syntax, MX lookup, disposable/role/typo flags and a 0-100 score, DNS only (no SMTP pings). $0.70 per 1,000 emails.
+
 * [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning before a send: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses).
+
+* [MailVeri](https://mailveri.com) - Bulk and real-time email verification API and MCP server: SMTP, catch-all, disposable and role detection; pay-as-you-go credits that never expire, 1,000 free.
+
+* [SolidPing](https://www.solidping.io) - Uptime monitoring with DNSBL blocklist checks (Spamhaus, SpamCop and others), SMTP, IMAP and POP3 checks, and a passive inbox check that alerts when a periodic email stops arriving. Open source (AGPL-3.0), self-hosted or hosted with a free tier.
+
+* [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
 
 ### Growth & Automation Tools
 
-* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 366 | 🐛 1 | 📅 2026-10-13 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
+* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 367 | 🐛 1 | 📅 2026-10-13 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 * [ActiveCampaign](https://activecampaign.com) - Drive growth with customer experience automation
 * [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
+* [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building: finds blog posts where your product fits, writes one plain-text pitch per post and sends it from a separate warmed-up mailbox, with follow-ups that stop on reply
 * [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
+* [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 * [DailyStory](https://dailystory.com) - Simple to use email marketing and more
 * [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
 * [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
+* [ImagineYourBook](https://www.imagineyourbook.com/book-generators/lead-magnet-ebook) - AI book drafting app that turns your notes or an outline into a full lead-magnet ebook for opt-ins and nurture sequences, with a cover and Word, EPUB or Markdown download. Paid, 7-day trial (card required); drafts need author review.
 * [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
 * [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 * [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
@@ -171,6 +193,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * Campaign Monitor (listed below)
 * [Encharge](https://encharge.io/)
 * [Newsletter2go](https://docs.newsletter2go.com/)
+* [Signal by StackEnhance](https://chromewebstore.google.com/detail/mpfjcjihiidnighpfhmpoodigeedehkk) - Free Chrome extension: on any online store, see when it last sent a marketing email, how often it sends and its latest subject lines; covers 1,000+ stores, mostly in the Nordics and Germany.
 
 ## Automation Email Marketing platform
 
@@ -188,6 +211,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 ### Ecommerce & product-led
 
 * [Sequenzy](https://sequenzy.com/) - lifecycle and transactional workflows for SaaS/product teams
+* [Kicklace](https://kicklace.com) - lifecycle emails for SaaS, written from your website and sent when customers act; free up to 1,000 contacts
 * [Drip](https://www.drip.com/) - ecommerce automation and personalized campaigns
 * [Automizy](https://automizy.com/) - email marketing software focused on improving open rates
 * [Sender](https://www.sender.net/) - keep in touch with customers and grow with less spend
@@ -209,6 +233,9 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 * [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
 * [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 * [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
+* [Add-to-calendar links in email](https://addtocalendarlab.com/guides/add-to-calendar-link-in-email) - Free guide to adding "add to calendar" buttons that work in Gmail, Outlook and Apple Mail: why JavaScript widgets fail in email, how to build Google/Outlook/Yahoo links and a hosted .ics by hand, and links vs .ics attachments.
+* [Cold Email Checker](https://ignura.com/tools/cold-email-checker) - Free, no-signup check of a cold email's length, reading level, spam words, links, questions and ask; runs in the browser, open source (MIT).
+* [Welcome email generator](https://kicklace.com/welcome-email-generator) - Type a SaaS's address and get the emails it should send, free and with no sign-up.
 
 ## Strategy
 
@@ -331,7 +358,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,511 | 🐛 75 | 📅 2026-10-01
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,512 | 🐛 75 | 📅 2026-10-01
 * [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -448,7 +475,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 * [How To Code An Email Newsletter in 6 Simple Steps](https://www.crazyegg.com/blog/how-to-code-an-email-newsletter/)
 * [The RIGHT WAY to create HTML emails | TUTORIAL \[2021\]](https://www.youtube.com/watch?v=sSNnixkKqcA)
 * [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
-* [How to Code a Responsive Email from Scratch](https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch)
+* [How to Code a Responsive Email from Scratch](https://web.archive.org/web/2023/https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch) (archived)
 * [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
 * [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
 * [How to HTML: Your Guide to Designing and Coding Emails That Deliver](https://customer.io/blog/how-to-html-your-guide-to-designing-and-coding-emails-that-deliver/)
@@ -465,10 +492,12 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 
 * [Free HTML Email Templates](https://github.com/designmodo/html-email-templates) ⭐ 288 | 🐛 0 | 🌐 HTML | 📅 2024-03-18
 * [Responsive Email](https://github.com/derekpunsalan/responsive-email) ⭐ 274 | 🐛 1 | 🌐 CSS | 📅 2018-12-12
+* [Groundmail Email Templates](https://github.com/Groundmail/email-templates) ⭐ 2 | 🐛 0 | 🌐 HTML | 📅 2026-10-31 - 12 free, MIT-licensed transactional email templates (auth, account, billing) in React Email, MJML, HTML and plain text, with dark mode.
 * [Responsive Email Templates](https://zurb.com/playground/responsive-email-templates)
 * [CodePen Email Templates](https://codepen.io/collection/AyVBJr)
 * [Really Good Emails](https://reallygoodemails.com/)
 * [Campaign Buzz](https://campaignbuzz.io/) - Searchable library of millions of real marketing emails from top brands, with filters, competitor tracking and the original HTML.
+* [They Sent It](https://theysentit.com/) - Free archive of nearly 2 million marketing emails from 50,000 brands, with how often each brand sends and the platform it uses.
 * [Benchmark Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
 * [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
@@ -485,8 +514,8 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,709 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
-* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,020 | 🐛 36 | 📅 2019-10-23
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,710 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,021 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,918 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,783 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,743 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-27
@@ -502,7 +531,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,285 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-05
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,286 | 🐛 58 | 🌐 JavaScript | 📅 2026-11-06
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,785 | 🐛 3 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,418 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,782 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
@@ -513,10 +542,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,121 | 🐛 963 | 🌐 TypeScript | 📅 2026-11-05 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,686 | 🐛 52 | 🌐 Python | 📅 2026-11-05
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,126 | 🐛 961 | 🌐 TypeScript | 📅 2026-11-06 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,687 | 🐛 52 | 🌐 Python | 📅 2026-11-06
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,247 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-05
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,247 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-06
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -554,8 +583,8 @@ Adjacent packages and sites (not the core catalog above).
 
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
-* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,859 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
-* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,051 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
+* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,860 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
+* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,052 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 316 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-01
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
 * [React Confirm Email](https://github.com/funador/react-confirm-email) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
@@ -876,4 +905,4 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
