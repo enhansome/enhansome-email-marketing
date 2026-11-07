@@ -74,7 +74,7 @@
                 "id": 1409418405,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-05T15:43:53Z",
+                "last_commit": "2026-11-07T19:25:56Z",
                 "open_issues": 4,
                 "owner": "caelum0x",
                 "repo": "scribase-mail-studio",
@@ -364,7 +364,7 @@
             "open_issues": 75,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4512,
+            "stars": 4513,
             "topics": [
               "awesome",
               "awesome-list",
@@ -584,7 +584,7 @@
                 "open_issues": 22,
                 "owner": "seanpowell",
                 "repo": "Email-Boilerplate",
-                "stars": 3783,
+                "stars": 3782,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -719,7 +719,7 @@
                 "open_issues": 6,
                 "owner": "konsav",
                 "repo": "email-templates",
-                "stars": 803,
+                "stars": 801,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -810,7 +810,7 @@
                 "open_issues": 58,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18286,
+                "stars": 18287,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -1018,7 +1018,7 @@
                 "open_issues": 961,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 8126,
+                "stars": 8129,
                 "topics": [
                   "email",
                   "encryption",
@@ -1047,7 +1047,7 @@
                 "open_issues": 52,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5687,
+                "stars": 5689,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -1114,7 +1114,7 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T12:12:42Z",
+                "last_commit": "2026-11-07T16:30:08Z",
                 "open_issues": 1,
                 "owner": "postalsys",
                 "repo": "emailengine",
@@ -1629,7 +1629,7 @@
             "open_issues": 2,
             "owner": "chaconnewu",
             "repo": "awesome-augmented",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1639,7 +1639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:01:33.686Z",
+    "last_updated": "2026-11-07T19:35:08.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
@@ -1647,8 +1647,8 @@
       "id": 488843731,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-06T14:07:53Z",
-      "open_issues": 46,
+      "last_commit": "2026-11-07T10:34:12Z",
+      "open_issues": 43,
       "owner": "LLazyEmail",
       "repo": "awesome-email-marketing",
       "stars": 79,
@@ -1662,7 +1662,7 @@
         "marketing"
       ]
     },
-    "original_repository_sha": "6ec25910d75560783f96c80e9edfaae1b64a17a0",
+    "original_repository_sha": "967eb1fb2ee2d337767864e876ea346a616823d6",
     "enhanced_repository": "enhansome/enhansome-email-marketing",
     "enhanced_repository_description": null,
     "title": "✉ Awesome Email Marketing List 👩‍💻👨‍💻 with stars"
