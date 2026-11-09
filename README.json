@@ -46,7 +46,7 @@
                 "open_issues": 0,
                 "owner": "GagnDeep",
                 "repo": "mailysend",
-                "stars": 41,
+                "stars": 42,
                 "topics": [
                   "cloudflare-workers",
                   "deliverability",
@@ -251,7 +251,7 @@
                 "open_issues": 1,
                 "owner": "CosmoBlk",
                 "repo": "email-marketing-bible",
-                "stars": 367,
+                "stars": 368,
                 "topics": [
                   "agent-skills",
                   "ai-skill",
@@ -513,7 +513,7 @@
                 "open_issues": 10,
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13710,
+                "stars": 13712,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -542,7 +542,7 @@
                 "open_issues": 36,
                 "owner": "mailchimp",
                 "repo": "email-blueprints",
-                "stars": 7022,
+                "stars": 7023,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -584,7 +584,7 @@
                 "open_issues": 22,
                 "owner": "seanpowell",
                 "repo": "Email-Boilerplate",
-                "stars": 3782,
+                "stars": 3783,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -605,7 +605,7 @@
                 "open_issues": 1,
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3743,
+                "stars": 3744,
                 "topics": [
                   "css",
                   "custom",
@@ -810,7 +810,7 @@
                 "open_issues": 58,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18288,
+                "stars": 18289,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -838,7 +838,7 @@
                 "open_issues": 3,
                 "owner": "foundation",
                 "repo": "foundation-emails",
-                "stars": 7785,
+                "stars": 7786,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -986,7 +986,7 @@
                 "open_issues": 2,
                 "owner": "foundation",
                 "repo": "inky",
-                "stars": 710,
+                "stars": 711,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -1014,11 +1014,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-06T17:24:00Z",
-                "open_issues": 964,
+                "last_commit": "2026-11-09T17:28:25Z",
+                "open_issues": 975,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 8137,
+                "stars": 8139,
                 "topics": [
                   "email",
                   "encryption",
@@ -1043,11 +1043,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-08T18:40:41Z",
-                "open_issues": 46,
+                "last_commit": "2026-11-09T04:57:02Z",
+                "open_issues": 50,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5689,
+                "stars": 5697,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -1597,7 +1597,7 @@
             "open_issues": 57,
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2769,
+            "stars": 2771,
             "topics": [
               "awesome",
               "email",
@@ -1639,7 +1639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:55:33.759Z",
+    "last_updated": "2026-11-09T23:50:43.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
@@ -1647,8 +1647,8 @@
       "id": 488843731,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-08T19:04:35Z",
-      "open_issues": 34,
+      "last_commit": "2026-11-09T04:22:44Z",
+      "open_issues": 36,
       "owner": "LLazyEmail",
       "repo": "awesome-email-marketing",
       "stars": 79,
