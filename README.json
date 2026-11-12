@@ -61,44 +61,6 @@
                 ]
               },
               "first_seen": "2026-09-26T18:41:56.047Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Scribase Mail Studio",
-              "description": "is a self-hosted, Resend-compatible email API and dashboard (AGPL fork of useSend): domains, webhooks, broadcasts and inbound, with a one-line SDK switch from Resend.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Self-hosted Resend alternative: Resend-compatible email API, dashboard, domains, webhooks, broadcasts and inbound. Switch with one line. AGPL fork of useSend.",
-                "homepage": "https://scribase.com/mail",
-                "id": 1409418405,
-                "language": "TypeScript",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-11-11T01:41:29Z",
-                "open_issues": 4,
-                "owner": "caelum0x",
-                "repo": "scribase-mail-studio",
-                "stars": 1,
-                "topics": [
-                  "email",
-                  "email-api",
-                  "email-marketing",
-                  "hacktoberfest",
-                  "newsletter",
-                  "nextjs",
-                  "open-source",
-                  "oracle-cloud",
-                  "resend",
-                  "resend-alternative",
-                  "self-hosted",
-                  "smtp",
-                  "transactional-email",
-                  "typescript",
-                  "usesend",
-                  "webhooks"
-                ]
-              },
-              "first_seen": "2026-10-11T19:41:01.586Z"
             }
           ],
           "description": null,
@@ -242,25 +204,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Email marketing skill for Claude Code. 88K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert.",
+                "description": "Email marketing skill for AI agents, by George Hartley (founded SmartrMail). Plans, writes, audits and sends email with hard send-safety gates. Works in Claude, ChatGPT, Codex and Cursor. Free, MIT, vendor-neutral.",
                 "homepage": "https://nitrosend.com/email-marketing-bible",
                 "id": 1153111797,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-13T09:27:40Z",
+                "last_commit": "2026-11-12T11:36:12Z",
                 "open_issues": 1,
                 "owner": "CosmoBlk",
                 "repo": "email-marketing-bible",
-                "stars": 371,
+                "stars": 373,
                 "topics": [
                   "agent-skills",
                   "ai-skill",
+                  "chatgpt",
                   "claude-code",
+                  "claude-skills",
+                  "codex",
                   "copywriting",
+                  "cursor",
                   "deliverability",
                   "ecommerce",
                   "email-marketing",
                   "marketing-automation",
+                  "mcp",
                   "saas"
                 ]
               },
@@ -361,7 +328,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-10-01T13:40:00Z",
-            "open_issues": 77,
+            "open_issues": 79,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
             "stars": 4511,
@@ -513,7 +480,7 @@
                 "open_issues": 10,
                 "owner": "leemunroe",
                 "repo": "responsive-html-email-template",
-                "stars": 13713,
+                "stars": 13714,
                 "topics": [
                   "email",
                   "email-marketing",
@@ -542,7 +509,7 @@
                 "open_issues": 36,
                 "owner": "mailchimp",
                 "repo": "email-blueprints",
-                "stars": 7023,
+                "stars": 7024,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -647,7 +614,7 @@
                 "open_issues": 13,
                 "owner": "ActiveCampaign",
                 "repo": "postmark-templates",
-                "stars": 3192,
+                "stars": 3193,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -810,7 +777,7 @@
                 "open_issues": 61,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18291,
+                "stars": 18293,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -838,7 +805,7 @@
                 "open_issues": 3,
                 "owner": "foundation",
                 "repo": "foundation-emails",
-                "stars": 7787,
+                "stars": 7786,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1014,11 +981,11 @@
                 "id": 22344874,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-11T17:02:34Z",
-                "open_issues": 960,
+                "last_commit": "2026-11-12T16:58:52Z",
+                "open_issues": 964,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 8154,
+                "stars": 8157,
                 "topics": [
                   "email",
                   "encryption",
@@ -1043,11 +1010,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T04:58:46Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-12T06:00:46Z",
+                "open_issues": 53,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5705,
+                "stars": 5708,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -1076,7 +1043,7 @@
                 "open_issues": 24,
                 "owner": "forwardemail",
                 "repo": "free-email-forwarding",
-                "stars": 2430,
+                "stars": 2429,
                 "topics": [
                   "custom",
                   "domains",
@@ -1118,7 +1085,7 @@
                 "open_issues": 2,
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2248,
+                "stars": 2250,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1318,7 +1285,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-01-05T05:40:45Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "breakdance",
                 "repo": "breakdance",
                 "stars": 537,
@@ -1356,7 +1323,7 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2023-03-14T09:12:47Z",
-                "open_issues": 10,
+                "open_issues": 9,
                 "owner": "here-be",
                 "repo": "snapdragon",
                 "stars": 225,
@@ -1597,7 +1564,7 @@
             "open_issues": 56,
             "owner": "jonathandion",
             "repo": "awesome-emails",
-            "stars": 2770,
+            "stars": 2771,
             "topics": [
               "awesome",
               "email",
@@ -1639,7 +1606,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:13:28.735Z",
+    "last_updated": "2026-11-12T21:54:11.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
