@@ -159,9 +159,11 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
 
+* [Luminoxia Cold Email Spam Checker](https://luminoxia.com/tools/cold-email-spam-checker/) - Free, no-signup check of email copy: highlights trigger words and checks links, images, capitals, length, the subject line, merge tags and the opt-out line. The checks run in the browser; there is no inbox-placement score. Built by the submitter.
+
 ### Growth & Automation Tools
 
-* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 378 | 🐛 1 | 📅 2026-11-12 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
+* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 381 | 🐛 1 | 📅 2026-11-12 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 * [ActiveCampaign](https://activecampaign.com) - Drive growth with customer experience automation
 * [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building: finds blog posts where your product fits, writes one plain-text pitch per post and sends it from a separate warmed-up mailbox, with follow-ups that stop on reply
@@ -531,13 +533,13 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,717 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
-* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,023 | 🐛 36 | 📅 2019-10-23
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,718 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,024 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,918 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,782 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,745 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-27
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,192 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
-* [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,253 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
+* [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,252 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 851 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
 * [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 801 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
 * [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2022-03-31 - Responsive HTML email template starter
@@ -548,7 +550,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,297 | 🐛 62 | 🌐 JavaScript | 📅 2026-11-17
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,298 | 🐛 63 | 🌐 JavaScript | 📅 2026-11-18
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,785 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,783 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
@@ -559,10 +561,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,174 | 🐛 952 | 🌐 TypeScript | 📅 2026-11-17 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,728 | 🐛 42 | 🌐 Python | 📅 2026-11-17
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,179 | 🐛 955 | 🌐 TypeScript | 📅 2026-11-18 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,734 | 🐛 43 | 🌐 Python | 📅 2026-11-18
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,251 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,250 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-17
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -601,7 +603,7 @@ Adjacent packages and sites (not the core catalog above).
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
 * [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,862 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
-* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,047 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
+* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,046 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 316 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-01
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
 * [React Confirm Email](https://github.com/funador/react-confirm-email) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
@@ -1014,7 +1016,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,775 | 🐛 59 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,775 | 🐛 61 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 203 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -1040,8 +1042,48 @@ Site URL after deploy: `https://llazyemail.github.io/awesome-email-marketing/`
 
 One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
+## Automation and reports
+
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch.
+
+### Where to find the reports
+
+| Report                     | Where it shows up                                                                                                                                                                        | When                                      | Workflow                     |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------- |
+| **Link check report**      | One open issue titled *Link check report (lychee)*, updated in place each run instead of a new issue per week                                                                            | Mondays 09:00 UTC, or run it by hand      | `link-check.yml`             |
+| **Open PRs status report** | One open issue titled *Open PRs status report* (label `pr-status-report`) with a table of every open PR, its author, merge state and last update; the issue body is replaced on each run | Mondays 08:00 UTC, or run it by hand      | `open-prs-status-report.yml` |
+| **Conflicted PRs**         | The `has-conflicts` label on each PR that conflicts with `main`; removed once it's resolved                                                                                              | Every 4 hours and on every push to `main` | `label-conflicted-prs.yml`   |
+| **Auto-rebase summary**    | The workflow run's summary page: one line per PR (updated, skipped and why, or failed with the conflicting files)                                                                        | Every 6 hours, or run it by hand          | `auto-rebase-prs.yml`        |
+
+A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the summary names it and the files). Fix that PR by hand or run the workflow with its number and `rebase-conflicts: true`; the other PRs were still processed.
+
+**Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: PR #446 superseded contributor PR #421.
+
+### All workflows
+
+| Workflow                             | File                             | Runs on                                                   | What it does                                                                                                                                                                                                 |
+| ------------------------------------ | -------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Test deployment                      | `test-deploy.yml`                | PRs                                                       | Builds the Docusaurus site in `website/` (after `npm run lint:docs-links`) so broken pages fail the PR.                                                                                                      |
+| Build images                         | `build-images.yml`               | PRs, manual                                               | Builds the site and checks that every image it references exists.                                                                                                                                            |
+| Markdown lint                        | `markdown-lint.yml`              | PRs and pushes touching Markdown                          | markdownlint on `README.md`, `CHANGELOG.md` and `website/docs/**`.                                                                                                                                           |
+| Link check                           | `link-check.yml`                 | PRs, Mondays, manual                                      | lychee on the README, changelog and docs, using `.lychee.toml`; site-relative `/docs/...` links resolve against `website/`. Scheduled and manual runs write the report issue above.                          |
+| Awesome list entry format check      | `awesome-entry-format-check.yml` | PRs                                                       | Adds a warning annotation for changed list entries that are missing the ` - description` part. Doesn't fail the PR.                                                                                          |
+| README ↔ Docs sync check             | `readme-docs-sync-check.yml`     | PRs                                                       | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md`).                                                                            |
+| Comment on README-only PRs           | `comment-readme-only.yml`        | PRs                                                       | When a PR changes `README.md` but nothing under `website/docs/`, comments once asking to add the entry to the docs page too.                                                                                 |
+| Star request comment                 | `star-request.yml`               | Newly opened PRs, including forks (`pull_request_target`) | Comments thanking the contributor and asking for a ⭐.                                                                                                                                                        |
+| Auto-rebase open PRs                 | `auto-rebase-prs.yml`            | Every 6 h, manual                                         | Updates PR branches that are behind `main`; conflicting PRs are reported, not force-pushed, unless `rebase-conflicts` is set. Conflicting fork PRs get a superseding PR (`supersede/pr-N`, "Supersedes #N"). |
+| Close superseded PRs                 | `close-superseded-prs.yml`       | A PR is merged (`pull_request_target`, no code checkout)  | Closes every PR named in the merged PR's `Supersedes #N` line, with a thank-you comment.                                                                                                                     |
+| Label conflicted PRs                 | `label-conflicted-prs.yml`       | Every 4 h, push to `main`, manual                         | Adds or removes `has-conflicts`.                                                                                                                                                                             |
+| Open PRs status report               | `open-prs-status-report.yml`     | Mondays, manual                                           | Writes the status report issue.                                                                                                                                                                              |
+| Update changelog                     | `changelog.yml`                  | Push to `main`                                            | Regenerates `CHANGELOG.md` and `website/src/data/changelog.json` and commits them.                                                                                                                           |
+| Update docs pages index              | `docs-index.yml`                 | Push to `main` touching docs                              | Regenerates `website/docs/pages-index.md` and `website/static/api/v1/docs-pages.json`.                                                                                                                       |
+| Update industry-leaders articles API | `industry-leaders-api.yml`       | Push to `main` touching that data                         | Regenerates `website/static/api/v1/industry-leaders.json`.                                                                                                                                                   |
+| Deploy to GitHub Pages               | `deploy.yml`                     | Push to `main` touching the site                          | Builds `website/` and publishes it to GitHub Pages.                                                                                                                                                          |
+
+The bot commits from *Update changelog*, *Update docs pages index* and *Update industry-leaders articles API* are expected; don't edit those generated files by hand.
+
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
