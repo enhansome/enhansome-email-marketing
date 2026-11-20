@@ -161,6 +161,8 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [Luminoxia Cold Email Spam Checker](https://luminoxia.com/tools/cold-email-spam-checker/) - Free, no-signup check of email copy: highlights trigger words and checks links, images, capitals, length, the subject line, merge tags and the opt-out line. The checks run in the browser; there is no inbox-placement score. Built by the submitter.
 
+* [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
+
 ### Growth & Automation Tools
 
 * [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 384 | 🐛 1 | 📅 2026-11-12 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
@@ -377,7 +379,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,511 | 🐛 80 | 📅 2026-10-01
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,512 | 🐛 81 | 📅 2026-10-01
 * [12 Statistics that Show the Power of Email Newsletters](https://web.archive.org/web/20250803053752/https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (archived)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -533,7 +535,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,717 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,716 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
 * [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,024 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,917 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,782 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
@@ -541,7 +543,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,192 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,251 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 851 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
-* [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 801 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
+* [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 800 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
 * [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2022-03-31 - Responsive HTML email template starter
 * [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) ⭐ 7 | 🐛 0 | 📅 2026-04-13 - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
 * [Free HTML Email Templates](https://www.dyspatch.io/resources/templates/)
@@ -550,8 +552,8 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,297 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-19
-* [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,784 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,299 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-20
+* [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,785 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,782 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
 * [Email Framework](https://github.com/g13nn/Email-Framework) ⭐ 1,666 | 🐛 0 | 🌐 HTML | 📅 2024-03-18
@@ -561,10 +563,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,180 | 🐛 960 | 🌐 TypeScript | 📅 2026-11-19 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,738 | 🐛 44 | 🌐 Python | 📅 2026-11-19
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,184 | 🐛 963 | 🌐 TypeScript | 📅 2026-11-20 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,739 | 🐛 47 | 🌐 Python | 📅 2026-11-20
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,250 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-19
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,250 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-20
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -591,8 +593,8 @@ Adjacent packages and sites (not the core catalog above).
 ### HTML stuff
 
 * [Breakdance](https://github.com/breakdance/breakdance) ⭐ 537 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05
-* [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 225 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-14
-* [HTML element attributes (github.com)](https://github.com/wooorm/html-element-attributes) ⭐ 64 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-28
+* [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 226 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-14
+* [HTML element attributes (github.com)](https://github.com/wooorm/html-element-attributes) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-28
 * [Sanitize-html](https://www.npmjs.com/package//sanitize-html)
 * [HTML element attributes (www.npmjs.com)](https://www.npmjs.com/package/html-element-attributes)
 * [HTML tag](https://www.npmjs.com/package/html-tag)
@@ -602,7 +604,7 @@ Adjacent packages and sites (not the core catalog above).
 
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
-* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,862 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
+* [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,863 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
 * [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,046 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 316 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-01
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
@@ -1016,7 +1018,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,776 | 🐛 61 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,777 | 🐛 61 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 203 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -1086,4 +1088,4 @@ The bot commits from *Update changelog*, *Update docs pages index* and *Update i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
