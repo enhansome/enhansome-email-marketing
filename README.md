@@ -155,6 +155,8 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [Pidgely SPF, DKIM and DMARC checker](https://pidgely.com/tools/spf-dkim-dmarc-checker/) - Free, no-signup check of a domain's SPF, DKIM (common selectors) and DMARC records with plain-words fixes. Runs public DNS queries from your browser; the domain is not sent to a server.
 
+* [Mail Toolbelt](https://mailtoolbelt.com) - Free, no-signup checks that run in the browser: SPF, DKIM, DMARC, BIMI, MTA-STS and TLS-RPT records with a grade and fixes, plus an HTML email validator, a BIMI SVG logo validator and an MJML editor. Built by the submitter.
+
 * [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
 
 * [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
@@ -162,6 +164,8 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Luminoxia Cold Email Spam Checker](https://luminoxia.com/tools/cold-email-spam-checker/) - Free, no-signup check of email copy: highlights trigger words and checks links, images, capitals, length, the subject line, merge tags and the opt-out line. The checks run in the browser; there is no inbox-placement score. Built by the submitter.
 
 * [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
+
+* [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
 
 ### Growth & Automation Tools
 
@@ -234,6 +238,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 ### Delivery, outbound & infrastructure-owned
 
 * [Overloop CLI](https://github.com/sortlist/overloop-cli) ⭐ 8 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-14 - AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
+* [WarmySender](https://github.com/warmysender-oss/warmysender) ⭐ 0 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-20 - open-source, self-hostable cold email engine (Instantly alternative) with sequences, same-thread follow-ups, a unified inbox and send caps enforced in code; AGPL-3.0
 * [Elastic Email](https://elasticemail.com/) - email delivery for transactional sending
 * [Woodpecker](https://woodpecker.co) - outbound email deliverability and sales opportunities
 * [Wraps](https://wraps.dev) - automations/templates/broadcasts sending through your AWS
@@ -379,7 +384,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,512 | 🐛 81 | 📅 2026-10-01
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,511 | 🐛 81 | 📅 2026-10-01
 * [12 Statistics that Show the Power of Email Newsletters](https://web.archive.org/web/20250803053752/https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (archived)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -536,14 +541,14 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 ### HTML email templates & boilerplates
 
 * [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,716 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
-* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,024 | 🐛 36 | 📅 2019-10-23
+* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,023 | 🐛 36 | 📅 2019-10-23
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,917 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,782 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
-* [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,745 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-27
+* [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,744 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-27
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,192 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,251 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 851 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
-* [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 800 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
+* [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 799 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
 * [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2022-03-31 - Responsive HTML email template starter
 * [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) ⭐ 7 | 🐛 0 | 📅 2026-04-13 - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
 * [Free HTML Email Templates](https://www.dyspatch.io/resources/templates/)
@@ -552,7 +557,7 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,299 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-20
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,300 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-20
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,785 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,416 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,782 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
@@ -563,10 +568,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,184 | 🐛 963 | 🌐 TypeScript | 📅 2026-11-20 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,739 | 🐛 47 | 🌐 Python | 📅 2026-11-20
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,188 | 🐛 963 | 🌐 TypeScript | 📅 2026-11-20 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,743 | 🐛 51 | 🌐 Python | 📅 2026-11-21
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,250 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-20
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,251 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-21
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -1046,7 +1051,7 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## Automation and reports
 
-Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch.
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) ⭐ 0 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-21), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name.
 
 ### Where to find the reports
 
@@ -1057,30 +1062,30 @@ Every workflow lives in `.github/workflows/`. Most call shared reusable workflow
 | **Conflicted PRs**         | The `has-conflicts` label on each PR that conflicts with `main`; removed once it's resolved                                                                                              | Every 4 hours and on every push to `main` | `label-conflicted-prs.yml`   |
 | **Auto-rebase summary**    | The workflow run's summary page: one line per PR (updated, skipped and why, or failed with the conflicting files)                                                                        | Every 6 hours, or run it by hand          | `auto-rebase-prs.yml`        |
 
-A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the summary names it and the files). Fix that PR by hand or run the workflow with its number and `rebase-conflicts: true`; the other PRs were still processed.
+A PR that *Auto-rebase open PRs* can't update gets one conflict report comment, edited on later runs, listing each file and its conflict type (for example "`main` deleted this file; the PR still edits it"). It also gets the `has-conflicts` label. The run shows a warning instead of going red, and the other PRs are still processed. If a PR only edits a workflow file that `main` deleted, the deletion is accepted automatically, and the PR gets a comment naming the dropped file. Fix other conflicts by hand, or run the workflow with the PR number and `rebase-conflicts: true`.
 
 **Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: PR #446 superseded contributor PR #421.
 
 ### All workflows
 
-| Workflow                             | File                             | Runs on                                                   | What it does                                                                                                                                                                                                 |
-| ------------------------------------ | -------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Test deployment                      | `test-deploy.yml`                | PRs                                                       | Builds the Docusaurus site in `website/` (after `npm run lint:docs-links`) so broken pages fail the PR.                                                                                                      |
-| Build images                         | `build-images.yml`               | PRs, manual                                               | Builds the site and checks that every image it references exists.                                                                                                                                            |
-| Markdown lint                        | `markdown-lint.yml`              | PRs and pushes touching Markdown                          | markdownlint on `README.md`, `CHANGELOG.md` and `website/docs/**`.                                                                                                                                           |
-| Link check                           | `link-check.yml`                 | PRs, Mondays, manual                                      | lychee on the README, changelog and docs, using `.lychee.toml`; site-relative `/docs/...` links resolve against `website/`. Scheduled and manual runs write the report issue above.                          |
-| Awesome list entry format check      | `awesome-entry-format-check.yml` | PRs                                                       | Adds a warning annotation for changed list entries that are missing the ` - description` part. Doesn't fail the PR.                                                                                          |
-| README ↔ Docs sync check             | `readme-docs-sync-check.yml`     | PRs                                                       | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md`).                                                                            |
-| Comment on README-only PRs           | `comment-readme-only.yml`        | PRs                                                       | When a PR changes `README.md` but nothing under `website/docs/`, comments once asking to add the entry to the docs page too.                                                                                 |
-| Star request comment                 | `star-request.yml`               | Newly opened PRs, including forks (`pull_request_target`) | Comments thanking the contributor and asking for a ⭐.                                                                                                                                                        |
-| Auto-rebase open PRs                 | `auto-rebase-prs.yml`            | Every 6 h, manual                                         | Updates PR branches that are behind `main`; conflicting PRs are reported, not force-pushed, unless `rebase-conflicts` is set. Conflicting fork PRs get a superseding PR (`supersede/pr-N`, "Supersedes #N"). |
-| Close superseded PRs                 | `close-superseded-prs.yml`       | A PR is merged (`pull_request_target`, no code checkout)  | Closes every PR named in the merged PR's `Supersedes #N` line, with a thank-you comment.                                                                                                                     |
-| Label conflicted PRs                 | `label-conflicted-prs.yml`       | Every 4 h, push to `main`, manual                         | Adds or removes `has-conflicts`.                                                                                                                                                                             |
-| Open PRs status report               | `open-prs-status-report.yml`     | Mondays, manual                                           | Writes the status report issue.                                                                                                                                                                              |
-| Update changelog                     | `changelog.yml`                  | Push to `main`                                            | Regenerates `CHANGELOG.md` and `website/src/data/changelog.json` and commits them.                                                                                                                           |
-| Update docs pages index              | `docs-index.yml`                 | Push to `main` touching docs                              | Regenerates `website/docs/pages-index.md` and `website/static/api/v1/docs-pages.json`.                                                                                                                       |
-| Update industry-leaders articles API | `industry-leaders-api.yml`       | Push to `main` touching that data                         | Regenerates `website/static/api/v1/industry-leaders.json`.                                                                                                                                                   |
-| Deploy to GitHub Pages               | `deploy.yml`                     | Push to `main` touching the site                          | Builds `website/` and publishes it to GitHub Pages.                                                                                                                                                          |
+| Workflow                             | File                             | Runs on                                                                                            | What it does                                                                                                                                                                                                                                                                                                                                                                     |
+| ------------------------------------ | -------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Test deployment                      | `test-deploy.yml`                | PRs                                                                                                | Builds the Docusaurus site in `website/` (after `npm run lint:docs-links`) so broken pages fail the PR.                                                                                                                                                                                                                                                                          |
+| Build images                         | `build-images.yml`               | PRs, manual                                                                                        | Builds the site and checks that every image it references exists.                                                                                                                                                                                                                                                                                                                |
+| Markdown lint                        | `markdown-lint.yml`              | PRs and pushes touching Markdown                                                                   | markdownlint on `README.md`, `CHANGELOG.md` and `website/docs/**`.                                                                                                                                                                                                                                                                                                               |
+| Link check                           | `link-check.yml`                 | PRs, Mondays, manual                                                                               | lychee on the README, changelog and docs, using `.lychee.toml`; site-relative `/docs/...` links resolve against `website/`. Scheduled and manual runs write the report issue above.                                                                                                                                                                                              |
+| Awesome list entry format check      | `awesome-entry-format-check.yml` | PRs                                                                                                | Adds a warning annotation for changed list entries that are missing the ` - description` part. Doesn't fail the PR.                                                                                                                                                                                                                                                              |
+| README ↔ Docs sync check             | `readme-docs-sync-check.yml`     | PRs                                                                                                | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md` and [CONTRIBUTING.md](./CONTRIBUTING.md)). Its own comment is off; *Docs sync feedback* explains the fix.                                                                                                                                        |
+| Docs sync feedback                   | `docs-sync-feedback.yml`         | PRs touching `README.md` or docs, including forks (`pull_request_target`); manual with a PR number | When a PR adds an entry to `README.md` but not to the docs page, adds the `needs-docs-sync` label and one comment naming the docs file, section and exact line to add. Later pushes edit that comment. Once in sync, the label is removed and the comment says resolved. Replaces the old *Comment on README-only PRs* workflow, which couldn't comment on fork PRs.             |
+| Star request comment                 | `star-request.yml`               | Newly opened PRs, including forks (`pull_request_target`)                                          | Comments thanking the contributor and asking for a ⭐.                                                                                                                                                                                                                                                                                                                            |
+| Auto-rebase open PRs                 | `auto-rebase-prs.yml`            | Every 6 h, manual                                                                                  | Updates PR branches that are behind `main`; conflicting PRs are reported (typed conflict report + `has-conflicts` label; warning, not a red run), not force-pushed, unless `rebase-conflicts` is set. Edits to workflows deleted on `main` are dropped automatically (`resolve-deleted-on-main`). Conflicting fork PRs get a superseding PR (`supersede/pr-N`, "Supersedes #N"). |
+| Close superseded PRs                 | `close-superseded-prs.yml`       | A PR is merged (`pull_request_target`, no code checkout)                                           | Closes every PR named in the merged PR's `Supersedes #N` line, with a thank-you comment.                                                                                                                                                                                                                                                                                         |
+| Label conflicted PRs                 | `label-conflicted-prs.yml`       | Every 4 h, push to `main`, manual                                                                  | Adds or removes `has-conflicts`.                                                                                                                                                                                                                                                                                                                                                 |
+| Open PRs status report               | `open-prs-status-report.yml`     | Mondays, manual                                                                                    | Writes the status report issue.                                                                                                                                                                                                                                                                                                                                                  |
+| Update changelog                     | `changelog.yml`                  | Push to `main`                                                                                     | Regenerates `CHANGELOG.md` and `website/src/data/changelog.json` and commits them.                                                                                                                                                                                                                                                                                               |
+| Update docs pages index              | `docs-index.yml`                 | Push to `main` touching docs                                                                       | Regenerates `website/docs/pages-index.md` and `website/static/api/v1/docs-pages.json`.                                                                                                                                                                                                                                                                                           |
+| Update industry-leaders articles API | `industry-leaders-api.yml`       | Push to `main` touching that data                                                                  | Regenerates `website/static/api/v1/industry-leaders.json`.                                                                                                                                                                                                                                                                                                                       |
+| Deploy to GitHub Pages               | `deploy.yml`                     | Push to `main` touching the site                                                                   | Builds `website/` and publishes it to GitHub Pages.                                                                                                                                                                                                                                                                                                                              |
 
 The bot commits from *Update changelog*, *Update docs pages index* and *Update industry-leaders articles API* are expected; don't edit those generated files by hand.
 
@@ -1088,4 +1093,4 @@ The bot commits from *Update changelog*, *Update docs pages index* and *Update i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._

@@ -266,6 +266,48 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
+            },
+            {
+              "node_type": "item",
+              "title": "WarmySender",
+              "description": "open-source, self-hostable cold email engine (Instantly alternative) with sequences, same-thread follow-ups, a unified inbox and send caps enforced in code; AGPL-3.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "WarmySender: open-source cold email you can self-host. The open-source Instantly alternative.",
+                "homepage": "https://warmysender.com",
+                "id": 1465464854,
+                "language": "TypeScript",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-20T19:06:50Z",
+                "open_issues": 4,
+                "owner": "warmysender-oss",
+                "repo": "warmysender",
+                "stars": 0,
+                "topics": [
+                  "ai-agents",
+                  "cold-email",
+                  "cold-outreach",
+                  "docker",
+                  "email-automation",
+                  "email-marketing",
+                  "email-outreach",
+                  "email-sequences",
+                  "instantly-alternative",
+                  "lemlist-alternative",
+                  "mcp",
+                  "open-source",
+                  "open-source-alternative",
+                  "sales-automation",
+                  "sales-engagement",
+                  "self-hosted",
+                  "self-hosted-email",
+                  "smartlead-alternative",
+                  "typescript",
+                  "warmysender"
+                ]
+              },
+              "first_seen": "2026-11-21T21:04:31.173Z"
             }
           ],
           "description": null,
@@ -331,7 +373,7 @@
             "open_issues": 81,
             "owner": "zudochkin",
             "repo": "awesome-newsletters",
-            "stars": 4512,
+            "stars": 4511,
             "topics": [
               "awesome",
               "awesome-list",
@@ -509,7 +551,7 @@
                 "open_issues": 36,
                 "owner": "mailchimp",
                 "repo": "email-blueprints",
-                "stars": 7024,
+                "stars": 7023,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -572,7 +614,7 @@
                 "open_issues": 2,
                 "owner": "forwardemail",
                 "repo": "email-templates",
-                "stars": 3745,
+                "stars": 3744,
                 "topics": [
                   "css",
                   "custom",
@@ -686,7 +728,7 @@
                 "open_issues": 6,
                 "owner": "konsav",
                 "repo": "email-templates",
-                "stars": 800,
+                "stars": 799,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -777,7 +819,7 @@
                 "open_issues": 61,
                 "owner": "mjmlio",
                 "repo": "mjml",
-                "stars": 18299,
+                "stars": 18300,
                 "topics": [
                   "email",
                   "email-boilerplate",
@@ -985,7 +1027,7 @@
                 "open_issues": 963,
                 "owner": "tutao",
                 "repo": "tutanota",
-                "stars": 8184,
+                "stars": 8188,
                 "topics": [
                   "email",
                   "encryption",
@@ -1010,11 +1052,11 @@
                 "id": 23594485,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T05:59:49Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-21T05:54:32Z",
+                "open_issues": 51,
                 "owner": "disposable-email-domains",
                 "repo": "disposable-email-domains",
-                "stars": 5739,
+                "stars": 5743,
                 "topics": [
                   "blocklist",
                   "disposable",
@@ -1081,11 +1123,11 @@
                 "id": 243816294,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T16:08:15Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-21T21:04:30Z",
+                "open_issues": 2,
                 "owner": "postalsys",
                 "repo": "emailengine",
-                "stars": 2250,
+                "stars": 2251,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:05:00.501Z"
@@ -1606,7 +1648,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T22:19:56.470Z",
+    "last_updated": "2026-11-21T21:04:31.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "✉️ An awesome list of resources for email marketing.",
@@ -1614,11 +1656,11 @@
       "id": 488843731,
       "language": "TypeScript",
       "license": "MIT",
-      "last_commit": "2026-11-20T10:56:47Z",
-      "open_issues": 43,
+      "last_commit": "2026-11-21T09:09:15Z",
+      "open_issues": 38,
       "owner": "LLazyEmail",
       "repo": "awesome-email-marketing",
-      "stars": 82,
+      "stars": 83,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1629,7 +1671,7 @@
         "marketing"
       ]
     },
-    "original_repository_sha": "354c92d337f2291aa2527cd75961bd2ed47e7c79",
+    "original_repository_sha": "f5d78041934537e659e596646032bbd293b8f1a0",
     "enhanced_repository": "enhansome/enhansome-email-marketing",
     "enhanced_repository_description": null,
     "title": "✉ Awesome Email Marketing List 👩‍💻👨‍💻 with stars"
