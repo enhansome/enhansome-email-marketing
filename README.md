@@ -167,6 +167,10 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
 
+* [InboxShield SPF Flattener & Audit](https://inbox-checker.appwrite.network/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
+
+* [DMARC Record Generator](https://bestlatestapps.com/tools/dmarc-record-generator/) - Builds a DMARC TXT record for the \_dmarc host from a policy and a report address, then checks the DMARC record the domain publishes today through public DNS. Free, no sign-up; built by the submitter, and the site shows ads.
+
 ### Growth & Automation Tools
 
 * [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) ⭐ 386 | 🐛 1 | 📅 2026-11-12 - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
@@ -204,6 +208,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 * [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
 * [SendX](https://sendx.io) - makes it easy to be a responsible email marketer
+* [Transmitly](https://transmitly.io) - Transactional email API and SMTP relay with inbound inboxes, MCP support, and delivery states. Free plan: 6,000 emails/month, 200/day, 3 domains. Built by the submitter.
 
 ## Email Marketing For eCommerce
 
@@ -540,15 +545,15 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 
 ### HTML email templates & boilerplates
 
-* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,716 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
-* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,025 | 🐛 36 | 📅 2019-10-23
-* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,917 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
-* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,782 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
+* [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template) ⭐ 13,714 | 🐛 10 | 🌐 HTML | 📅 2024-08-20
+* [Email Blueprints](https://github.com/mailchimp/email-blueprints) ⭐ 7,024 | 🐛 36 | 📅 2019-10-23
+* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,916 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
+* [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,781 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,744 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-27
 * [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,192 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,252 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 852 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
-* [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 799 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
+* [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 798 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
 * [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) ⭐ 685 | 🐛 3 | 🌐 HTML | 📅 2022-03-31 - Responsive HTML email template starter
 * [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) ⭐ 7 | 🐛 0 | 📅 2026-04-13 - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
 * [Free HTML Email Templates](https://www.dyspatch.io/resources/templates/)
@@ -557,21 +562,21 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,301 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-23
-* [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,785 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,303 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-24
+* [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,784 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
 * [Premailer](https://github.com/premailer/premailer) ⭐ 2,417 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,783 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
-* [Email Framework](https://github.com/g13nn/Email-Framework) ⭐ 1,665 | 🐛 0 | 🌐 HTML | 📅 2024-03-18
+* [Email Framework](https://github.com/g13nn/Email-Framework) ⭐ 1,664 | 🐛 0 | 🌐 HTML | 📅 2024-03-18
 * [Mjml react](https://github.com/wix-incubator/mjml-react) ⭐ 998 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-24
 * [React html email](https://github.com/chromakode/react-html-email) ⭐ 889 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-01
 * [Inky](https://github.com/foundation/inky) ⭐ 714 | 🐛 2 | 🌐 Rust | 📅 2026-09-23
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,196 | 🐛 964 | 🌐 TypeScript | 📅 2026-11-23 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,753 | 🐛 48 | 🌐 Python | 📅 2026-11-23
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,202 | 🐛 969 | 🌐 TypeScript | 📅 2026-11-24 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,760 | 🐛 48 | 🌐 Python | 📅 2026-11-24
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,254 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-21
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,254 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-24
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -597,7 +602,7 @@ Adjacent packages and sites (not the core catalog above).
 
 ### HTML stuff
 
-* [Breakdance](https://github.com/breakdance/breakdance) ⭐ 537 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05
+* [Breakdance](https://github.com/breakdance/breakdance) ⭐ 538 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05
 * [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 226 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-14
 * [HTML element attributes (github.com)](https://github.com/wooorm/html-element-attributes) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-28
 * [Sanitize-html](https://www.npmjs.com/package//sanitize-html)
@@ -610,7 +615,7 @@ Adjacent packages and sites (not the core catalog above).
 Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
 * [Maizzle](https://github.com/maizzle/maizzle) ⭐ 2,863 | 🐛 0 | 🌐 Vue | 📅 2026-06-16
-* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,046 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
+* [Bojler](https://github.com/Slicejack/bojler) ⭐ 1,045 | 🐛 7 | 🌐 SCSS | 📅 2023-12-06
 * [React multi email](https://github.com/jsdevkr/react-multi-email) ⭐ 316 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-01
 * [Generating Emails with React](https://github.com/lang-ai/react-emails) ⭐ 145 | 🐛 9 | 🌐 JavaScript | 📅 2021-06-10
 * [React Confirm Email](https://github.com/funador/react-confirm-email) ⭐ 96 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-13
@@ -901,7 +906,7 @@ Concepts, guides, and providers for transactional email. Docs: [`website/docs/mo
 
 #### Templates
 
-* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,917 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
+* [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,916 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 
 ***
 
@@ -1051,7 +1056,7 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## Automation and reports
 
-Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) ⭐ 0 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-23), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name.
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-24), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name. `auto-rebase-prs.yml` calls `reusable-auto-rebase`; `close-superseded-prs.yml` calls `reusable-close-superseded`.
 
 ### Where to find the reports
 
@@ -1093,4 +1098,4 @@ The bot commits from *Update changelog*, *Update docs pages index* and *Update i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
