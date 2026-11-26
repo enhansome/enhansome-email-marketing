@@ -99,7 +99,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Self-Hosted ESPs
 
-* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,748 | 🐛 118 | 🌐 JavaScript | 📅 2026-11-25 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
+* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) ⭐ 5,748 | 🐛 117 | 🌐 JavaScript | 📅 2026-11-25 - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
 * [MailySend](https://github.com/GagnDeep/mailysend) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - is a self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts with A/B testing, inbound mailboxes, and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server, sending through Cloudflare Email Service, Amazon SES, Resend or SMTP.
 * [Interspire](https://interspire.com) - Self-hosted Email Marketing Software
 * [Listmonk](https://listmonk.app) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
@@ -120,6 +120,8 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Stripo](https://stripo.email) - Drag-n-drop and HTML email builder with 1,690+ responsive templates
 
 ### Deliverability & Testing Tools
+
+* [Postmaster of Puppets](https://postmasterofpuppets.com/) - Free, no-signup check of a domain's MX, SPF, DKIM and DMARC records that says whether anyone can send email as it, with the records that fix it. Runs in the browser; MIT, open source ([source](https://github.com/randyesperben/postmaster-of-puppets) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25). Built by the submitter.
 
 * [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) ⭐ 1 | 🐛 0 | 📅 2026-09-01 - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
 
@@ -230,6 +232,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 * [Sendinblue](https://www.sendinblue.com) - all-in-one digital marketing with transactional messaging and automation
 * [GetResponse](https://www.getresponse.com/) - email marketing platform for lists, relationships, and campaigns
 * [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing platform for leads and contacts
+* [Genaya](https://www.genaya.com) - CRM with email and SMS campaigns, review requests, scheduling, invoices and an AI receptionist for service businesses. Paid, 14-day free trial. Built by the submitter.
 
 ### Ecommerce & product-led
 
@@ -248,6 +251,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 * [Woodpecker](https://woodpecker.co) - outbound email deliverability and sales opportunities
 * [Wraps](https://wraps.dev) - automations/templates/broadcasts sending through your AWS
 * [MisarReach](https://misarreach.com) - AI lead finder with email, LinkedIn, WhatsApp and SMS outreach sequences and a built-in CRM
+* [Drip Send](https://www.yuzool.com/apps/dripsend.html) - native Mac app for one-to-one cold emails and paced follow-ups sent from your own mailbox, stopping when someone replies. $34.99 one-time. Built by the submitter.
 
 ## Tools for effective work with emails
 
@@ -264,6 +268,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [CheckMail1](https://checkmail1.com) - Email verification API for bulk list cleaning, with disposable, role-based and catch-all detection. REST API and CSV upload; 100 free credits, pay-as-you-go from $5 per 1,000 checks.
 - [LeadSets](https://www.leadsets.ai) - Unlimited B2B Contact Data for AI agents: find work emails and verify them (verified, catch-all, unknown, invalid) over REST or MCP. Free 1,000 records, no card.
 
+* [Fig](https://fig.email) - Email verification for sales teams and AI agents: an SMTP mailbox check returns valid, invalid, risky or unknown with a reason, from a CSV or Excel upload, REST API, CLI or MCP server. 100 free checks, packs from $2 per 1,000 that never expire, unknown results refunded. Built by the submitter.
 * [Add-to-calendar links in email](https://addtocalendarlab.com/guides/add-to-calendar-link-in-email) - Free guide to adding "add to calendar" buttons that work in Gmail, Outlook and Apple Mail: why JavaScript widgets fail in email, how to build Google/Outlook/Yahoo links and a hosted .ics by hand, and links vs .ics attachments.
 * [Cold Email Checker](https://ignura.com/tools/cold-email-checker) - Free, no-signup check of a cold email's length, reading level, spam words, links, questions and ask; runs in the browser, open source (MIT).
 * [Welcome email generator](https://kicklace.com/welcome-email-generator) - Type a SaaS's address and get the emails it should send, free and with no sign-up.
@@ -389,7 +394,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Blogs
 
-* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,514 | 🐛 82 | 📅 2026-10-01
+* [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) ⭐ 4,513 | 🐛 82 | 📅 2026-10-01
 * [12 Statistics that Show the Power of Email Newsletters](https://web.archive.org/web/20250803053752/https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (archived)
 * [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
@@ -550,7 +555,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 * [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates) ⭐ 6,916 | 🐛 12 | 🌐 HTML | 📅 2022-02-03
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate) ⭐ 3,781 | 🐛 22 | 🌐 HTML | 📅 2021-04-28
 * [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates) ⭐ 3,744 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-27
-* [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,192 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
+* [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates) ⭐ 3,191 | 🐛 13 | 🌐 HTML | 📅 2023-04-02
 * [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates) ⭐ 1,252 | 🐛 2 | 🌐 HTML | 📅 2026-09-08
 * [SendGrid email templates](https://github.com/sendgrid/email-templates) ⭐ 852 | 🐛 29 | 🌐 HTML | 📅 2022-04-09
 * [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates) ⭐ 798 | 🐛 6 | 🌐 HTML | 📅 2022-09-18
@@ -562,9 +567,9 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Frameworks & compilers
 
-* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,302 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-25
+* [MJML](https://github.com/mjmlio/mjml) ⭐ 18,305 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-26
 * [Foundation for Emails](https://github.com/foundation/foundation-emails) ⭐ 7,784 | 🐛 4 | 🌐 HTML | 📅 2026-03-13
-* [Premailer](https://github.com/premailer/premailer) ⭐ 2,417 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
+* [Premailer](https://github.com/premailer/premailer) ⭐ 2,418 | 🐛 92 | 🌐 Ruby | 📅 2026-11-03
 * [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico) ⭐ 1,783 | 🐛 18 | 🌐 HTML | 📅 2026-09-22
 * [Email Framework](https://github.com/g13nn/Email-Framework) ⭐ 1,664 | 🐛 0 | 🌐 HTML | 📅 2024-03-18
 * [Mjml react](https://github.com/wix-incubator/mjml-react) ⭐ 998 | 🐛 3 | 🌐 JavaScript | 📅 2023-04-24
@@ -573,10 +578,10 @@ Coding tutorials live under [Frontend Development → Articles & Tutorials](#art
 
 ### Infrastructure & APIs
 
-* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,205 | 🐛 971 | 🌐 TypeScript | 📅 2026-11-25 - Privacy-focused encrypted email service for email, contacts, and calendar
-* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,765 | 🐛 51 | 🌐 Python | 📅 2026-11-25
+* [Tutanota](https://github.com/tutao/tutanota) ⭐ 8,207 | 🐛 968 | 🌐 TypeScript | 📅 2026-11-26 - Privacy-focused encrypted email service for email, contacts, and calendar
+* [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains) ⭐ 5,767 | 🐛 51 | 🌐 Python | 📅 2026-11-26
 * [Forward email](https://github.com/forwardemail/free-email-forwarding) ⚠️ Archived
-* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,257 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-25
+* [EmailEngine Email API](https://github.com/postalsys/emailengine) ⭐ 2,258 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-26
 * [SMTP Email Verification](https://github.com/EmailVerify/email-verify) ⚠️ Archived
 
 ### Checkers
@@ -602,8 +607,8 @@ Adjacent packages and sites (not the core catalog above).
 
 ### HTML stuff
 
-* [Breakdance](https://github.com/breakdance/breakdance) ⭐ 538 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05
-* [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 226 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-14
+* [Breakdance](https://github.com/breakdance/breakdance) ⭐ 539 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-05
+* [Snapdragon](https://github.com/here-be/snapdragon) ⭐ 227 | 🐛 9 | 🌐 JavaScript | 📅 2023-03-14
 * [HTML element attributes (github.com)](https://github.com/wooorm/html-element-attributes) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2025-07-28
 * [Sanitize-html](https://www.npmjs.com/package//sanitize-html)
 * [HTML element attributes (www.npmjs.com)](https://www.npmjs.com/package/html-element-attributes)
@@ -1028,7 +1033,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Awesome lists
 
-* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,778 | 🐛 60 | 📅 2024-10-03
+* [Sister Repository](https://github.com/jonathandion/awesome-emails) ⭐ 2,778 | 🐛 62 | 📅 2024-10-03
 * [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md) ⭐ 203 | 🐛 2 | 🌐 GCC Machine Description | 📅 2020-03-04
 
 ## Additional content
@@ -1056,18 +1061,18 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## Automation and reports
 
-Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) ⭐ 0 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-24), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name. `auto-rebase-prs.yml` calls `reusable-auto-rebase`; `close-superseded-prs.yml` calls `reusable-close-superseded`.
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md) ⭐ 0 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-26), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name. `auto-rebase-prs.yml` calls `reusable-auto-rebase`; `close-superseded-prs.yml` calls `reusable-close-superseded`.
 
 ### Where to find the reports
 
-| Report                     | Where it shows up                                                                                                                                                                        | When                                      | Workflow                     |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------- |
-| **Link check report**      | One open issue titled *Link check report (lychee)*, updated in place each run instead of a new issue per week                                                                            | Mondays 09:00 UTC, or run it by hand      | `link-check.yml`             |
-| **Open PRs status report** | One open issue titled *Open PRs status report* (label `pr-status-report`) with a table of every open PR, its author, merge state and last update; the issue body is replaced on each run | Mondays 08:00 UTC, or run it by hand      | `open-prs-status-report.yml` |
-| **Conflicted PRs**         | The `has-conflicts` label on each PR that conflicts with `main`; removed once it's resolved                                                                                              | Every 4 hours and on every push to `main` | `label-conflicted-prs.yml`   |
-| **Auto-rebase summary**    | The workflow run's summary page: one line per PR (updated, skipped and why, or failed with the conflicting files)                                                                        | Every 6 hours, or run it by hand          | `auto-rebase-prs.yml`        |
+| Report                     | Where it shows up                                                                                                                                                                                         | When                                      | Workflow                     |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------------- |
+| **Link check report**      | One open issue titled *Link check report (lychee)*, updated in place each run instead of a new issue per week                                                                                             | Mondays 09:00 UTC, or run it by hand      | `link-check.yml`             |
+| **Open PRs status report** | One open issue titled *Open PRs status report* (label `pr-status-report`) with a table of every open PR, its author, merge state and last update; the issue body is replaced on each run                  | Mondays 08:00 UTC, or run it by hand      | `open-prs-status-report.yml` |
+| **Conflicted PRs**         | The `has-conflicts` label on each PR that conflicts with `main`; removed once it's resolved                                                                                                               | Every 4 hours and on every push to `main` | `label-conflicted-prs.yml`   |
+| **Auto-rebase summary**    | The workflow run's summary page: an overview table with one row per PR (updated, up to date, conflict, failed) and a *Checks not green* column; PRs whose checks fail also get the `checks-failing` label | Every 6 hours, or run it by hand          | `auto-rebase-prs.yml`        |
 
-A PR that *Auto-rebase open PRs* can't update gets one conflict report comment, edited on later runs, listing each file and its conflict type (for example "`main` deleted this file; the PR still edits it"). It also gets the `has-conflicts` label. The run shows a warning instead of going red, and the other PRs are still processed. If a PR only edits a workflow file that `main` deleted, the deletion is accepted automatically, and the PR gets a comment naming the dropped file. Fix other conflicts by hand, or run the workflow with the PR number and `rebase-conflicts: true`.
+A PR that *Auto-rebase open PRs* can't update gets one conflict report comment, edited on later runs, listing each file and its conflict type (for example "`main` deleted this file; the PR still edits it"). It also gets the `has-conflicts` label. A conflict found during a `rebase-conflicts` dispatch shows a warning instead of going red. A scheduled run that skips a conflicting PR goes red (`fail-on-skipped-conflicts`), so conflicts don't hide behind a green run. The other PRs are still processed either way. Failing check names need the `AUTO_REBASE_TOKEN` secret (a personal access token that can read checks); without it the workflow uses GitHub's "unstable" merge state. If a PR only edits a workflow file that `main` deleted, the deletion is accepted automatically, and the PR gets a comment naming the dropped file. Fix other conflicts by hand, or run the workflow with the PR number and `rebase-conflicts: true`.
 
 **Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: PR #446 superseded contributor PR #421.
 
@@ -1098,4 +1103,4 @@ The bot commits from *Update changelog*, *Update docs pages index* and *Update i
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
